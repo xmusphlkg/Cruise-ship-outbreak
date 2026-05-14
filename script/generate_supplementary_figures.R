@@ -10,7 +10,7 @@ suppressPackageStartupMessages({
 })
 
 repo_root <- normalizePath(".", mustWork = TRUE)
-data_path <- file.path(repo_root, "data", "outbreak_events.csv")
+data_path <- file.path(repo_root, "output", "table_s_full_dataset.csv")
 output_dir <- file.path(repo_root, "output")
 
 cat_map <- c(
@@ -202,4 +202,3 @@ save_plot(plot_s2, "figure_s2_prisma_flow", 9.5, 11)
 save_plot(plot_s3, "figure_s3_quality_distribution", 11.5, 7.5)
 save_plot(plot_s4, "figure_s4_source_bias_heatmap", 13, 8.2)
 save_plot(plot_s5, "figure_s5_field_completeness", 11.5, 7.5)
-
