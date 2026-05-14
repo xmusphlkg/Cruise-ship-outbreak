@@ -1,0 +1,782 @@
+record_id,title,source_database,source_category,year,screening_stage,decision,exclusion_reason,notes
+SR-0001,Caribbean Princess - Norovirus (4/28/2026 – 5/11/2026),CDC VSP,official_public_health,2026,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0002,Insignia - E. coli (4/7/2026 – 4/14/2026),CDC VSP,official_public_health,2026,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0003,Star Princess - Norovirus (3/7/2026 – 3/14/2026),CDC VSP,official_public_health,2026,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0004,Seven Seas Mariner - E. coli (1/11/2026 – 2/1/2026),CDC VSP,official_public_health,2026,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0005,Rotterdam - Norovirus (12/28/2025 – 1/9/2026),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0006,Celebrity Eclipse - Norovirus (12/20/2025 – 12/28/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0007,AIDAdiva - Norovirus (11/10/2025 – 12/16/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0008,Oceania Insignia - Norovirus (10/16/2025 – 10/27/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0009,Serenade of the Seas - Norovirus (9/19/2025 – 10/2/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0010,Navigator of the Seas - Norovirus (7/4/2025 – 7/11/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0011,Seven Seas Explorer - Unknown (4/26/2025 – 5/14/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0012,Eurodam - Norovirus (4/12/2025-5/3/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0013,Zuiderdam - Unknown (1/4/2025-5/9/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0014,National Geographic Sea Lion - Unknown (4/15/2025-4/29/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0015,Viking Polaris - Norovirus (4/11/2025-4/23/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0016,Seabourn Encore - Norovirus (3/16/2025-4/9/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0017,Queen Mary 2 - Norovirus (3/8/2025-4/6/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0018,Rotterdam - Norovirus (3/7/2025-3/16/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0019,Coral Princess - Norovirus (2/21/2025-3/9/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0020,Eurodam - Norovirus (2/19/2025-3/1/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0021,Rotterdam - Norovirus (2/2/2025-2/14/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0022,Radiance of the Seas - Norovirus (2/1/2025-2/8/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0023,Coral Princess - Norovirus (1/20/2025-2/5/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0024,Viking Mars - Norovirus (1/10/2025-1/24/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0025,Volendam - Norovirus (1/4/2025-1/25/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0026,Silver Ray - E. coli (1/4/2025-1/20/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0027,Sea Cloud Spirit - Ciguatera (presumed) (1/4/2025-1/10/2025),CDC VSP,official_public_health,2025,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0028,Eurodam - Norovirus (12/30/2024-1/8/2025),CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0029,Oceania Nautica - Norovirus (12/23/2024-1/8/2025),CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0030,Queen Mary 2 - Norovirus (12/21/2024-1/3/2025),CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0031,"Queen Mary 2 - Norovirus (12/14-12/21, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0032,"Rotterdam - Norovirus (12/8-12/20, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0033,"Ruby Princess - Norovirus (12/2-12/18, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0034,"Zuiderdam - Norovirus (12/4-12/14, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0035,"Coral Princess - Norovirus (10/17-11/17, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0036,"Radiance of the Seas - Salmonella (9/20-9/27, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0037,"Arcadia - Norovirus (9/3-10/3, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0038,"Celebrity Summit - Norovirus (5/24-5/31, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0039,"Allure of the Seas - Unknown (5/20-5/24, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0040,"Sapphire Princess - Norovirus (4/5-5/7, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0041,"Radiance of the Seas - Norovirus (4/8-4/22, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0042,"Silver Nova - E. coli (3/31-4/16, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0043,"Koningsdam - Norovirus (2/17-3/24, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0044,"Queen Victoria - Norovirus (1/22-2/6, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0045,"Celebrity Constellation - Norovirus (1/3–1/12, 2024)",CDC VSP,official_public_health,2024,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0046,"Scarlet Lady - SalmonellaandE. coli (10/8-10/13, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0047,"Viking Neptune - Norovirus (6/6-6/20, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0048,"Celebrity Summit - Norovirus (5/15-5/25, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0049,"Nieuw Amsterdam - Norovirus (5/6-5/21, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0050,"Grand Princess - Norovirus (3/31-4/28, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0051,"Emerald Princess - Norovirus (3/17-4/1, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0052,"Enchantment of the Seas - Norovirus (3/23-3/31, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0053,"Enchantment of the Seas - Norovirus (3/11-3/23, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0054,"Celebrity Equinox - Norovirus (3/9-3/18, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0055,"Celebrity Constellation - Norovirus (3/6-3/17, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0056,"Ruby Princess - Norovirus (2/26-3/5, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0057,"Jewel of the Seas - Norovirus (1/28-2/3, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0058,"Brilliance of the Seas - Norovirus (1/16-1/21, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0059,"Arcadia - Norovirus (1/3-4/13, 2023)",CDC VSP,official_public_health,2023,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0060,Arcadia - Norovirus (12/29/2022-1/3/2023),CDC VSP,official_public_health,2022,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0061,Silver Moon - Unknown (12/21/2022-1/6/2023),CDC VSP,official_public_health,2022,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0062,Carnival Splendor - Norovirus (5/24/2022-5/31/2022),CDC VSP,official_public_health,2022,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0063,Seabourn Odyssey - Unknown (4/28/2022-5/19/2022),CDC VSP,official_public_health,2022,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0064,Viking Sea - VibrioandE. coli (11/29/2021-12/13/2021),CDC VSP,official_public_health,2021,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0065,Grandeur of the Seas - Norovirus (3/7/2020-3/19/2020),CDC VSP,official_public_health,2020,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0066,Westerdam - Unknown (3/1/2020-3/16/2020),CDC VSP,official_public_health,2020,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0067,Caribbean Princess - Norovirus (2/16/2020-3/1/2020),CDC VSP,official_public_health,2020,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0068,Caribbean Princess - Norovirus (2/2/2020-2/16/2020),CDC VSP,official_public_health,2020,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0069,Norwegian Joy - Unknown (11/8/2019-11/24/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0070,AIDAdiva - Norovirus (10/3/2019-11/13/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0071,AIDAluna - Norovirus (9/28/2019-10/12/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0072,AIDAdiva - Norovirus (9/5/2019-11/23/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0073,Conquest - Norovirus (9/7/2019-9/14/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0074,Oceania Marina - Unknown (3/18/2019-4/5/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0075,Island Princess - Norovirus (2/8/2019-2/18/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0076,Viking Star - Norovirus (2/7/2019-2/14/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0077,Viking Sea - Norovirus (1/18/2019-1/28/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0078,Oasis of the Seas - Norovirus (1/6/2019-1/13/2019),CDC VSP,official_public_health,2019,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0079,Viking Star - Rotavirus (12/13/2018-1/3/2019),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0080,Crystal Symphony - Norovirus (11/8/2018-12/2/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0081,Volendam - Norovirus (11/3/2018-11/18/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0082,Pearl Mist - Unknown (9/1/2018-9/12/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0083,Seven Seas Mariner - Unknown (6/20/2018-6/30/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0084,Zaandam - Unknown (6/18/2018-7/2/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0085,Silver Shadow - Norovirus (5/10/2018-5/24/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0086,Celebrity Infinity - Norovirus (4/17/2018-5/2/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0087,Queen Victoria - EnterotoxigenicE. coli(ETEC) (2/21/2018-3/9/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0088,Azamara Quest - Unknown (1/25/2018-2/8/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0089,Island Princess - Norovirus andCampylobacter (1/9/2018-1/24/2018),CDC VSP,official_public_health,2018,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0090,Independence of the Seas - Norovirus (12/11/2017-12/16/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0091,Celebrity Reflection - Norovirus (11/17/2017-11/27/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0092,Crown Princess - C. perfringensenterotoxin (10/25/2017-11/8/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0093,National Geographic Sea Bird - Unknown (9/26/2017-10/2/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0094,Noordam - Norovirus (7/30/2017-8/6/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0095,Nieuw Amsterdam - Norovirus (7/22/2017-7/29/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0096,Noordam - Norovirus (7/23/2017-7/30/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0097,Volendam - Norovirus (7/19/2017-7/26/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0098,Volendam - Norovirus (7/12/2017-7/19/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0099,Regatta - Norovirus (3/29/2017-4/14/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0100,Coral Princess - Norovirus (3/8/2017-3/18/2017),CDC VSP,official_public_health,2017,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0101,Oosterdam - Norovirus (11/3/2016-11/18/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0102,Adonia - Unknown (10/16/2016-10/23/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0103,Disney Wonder - Norovirus (4/27/2016-5/1/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0104,Balmoral - Norovirus (4/16/2016-5/20/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0105,Oceania Riviera - Norovirus (3/20/2016-4/2/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0106,Norwegian Gem - Norovirus (3/12/2016-3/22/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0107,Silver Spirit - EnterotoxigenicE. coli(ETEC) (3/3/2016-3/21/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0108,Carnival Sunshine - Norovirus (2/21/2016-3/5/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0109,Anthem of the Seas - Norovirus (2/21/2016-3/4/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0110,Ocean Princess - Norovirus and EnterotoxigenicE. coli(ETEC) (2/13/2016-3/7/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0111,Oceania Riviera - Norovirus (2/12/2016-2/22/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0112,Oceania Riviera - Norovirus (2/2/2016-2/12/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0113,Crown Princess - Norovirus (1/8/2016-1/18/2016),CDC VSP,official_public_health,2016,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0114,Veendam - Norovirus (12/20/2015-12/27/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0115,Caribbean Princess - Norovirus (12/13/2015-12/20/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0116,Oceania Riviera - Norovirus (11/18/2015-12/2/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0117,Star Princess - Norovirus (4/29/2015-5/14/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0118,Oceania Marina - Norovirus (4/21/2015-5/7/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0119,ms Maasdam - Norovirus (4/17/2015-5/1/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0120,Coral Princess - Norovirus (4/12/2015-4/27/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0121,Legend of the Seas - Norovirus (3/30/2015-4/14/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0122,Celebrity Infinity - Norovirus (3/29/2015-4/13/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0123,Norwegian Pearl - Norovirus (3/26/2015-4/6/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0124,Celebrity Equinox - Norovirus (2/13/2015-2/23/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0125,Grandeur of the Seas - Norovirus (1/24/2015-2/3/2015),CDC VSP,official_public_health,2015,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0126,Crown Princess - Norovirus (10/18/2014-11/16/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0127,Crown Princess - Norovirus and EnterotoxigenicE. coli(ETEC) (4/5/2014-4/12/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0128,Grandeur of the Seas - Norovirus (4/5/2014-4/12/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0129,Grandeur of the Seas - Norovirus (3/28/2014-4/5/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0130,ms Maasdam - Unknown (3/2/2014-3/28/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0131,ms Veendam - Norovirus (2/8/2014-2/22/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0132,Caribbean Princess - Norovirus (1/25/2014-2/1/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0133,Explorer of the Seas - Norovirus (1/21/2014-1/31/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0134,Norwegian Star - Norovirus (1/5/2014-1/19/2014),CDC VSP,official_public_health,2014,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0135,Norwegian Gem - Norovirus (11/16/2013-11/25/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0136,Celebrity Summit - Norovirus (9/21/2013-10/5/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0137,Celebrity Millennium - Norovirus (04/25/2013-05/10/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0138,Crystal Symphony - Norovirus (04/29/2013-05/06/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0139,Veendam - Enterotoxigenic E. coli(ETEC) (04/13/2013-05/04/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0140,Celebrity Solstice - Norovirus (04/08/2013-04/25/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0141,Celebrity Infinity - Norovirus (03/17/2013-04/01/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0142,Ruby Princess - Norovirus (03/03/2013-03/10/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0143,Vision of the Seas - Norovirus (02/25/2013-03/08/2013),CDC VSP,official_public_health,2013,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0144,Queen Mary 2 - Norovirus (12/22/2012-01/03/2013),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0145,Emerald Princess - Norovirus (12/17/2012-12/27/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0146,Oceania Riviera - Norovirus (11/15/2012-11/29/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0147,Amsterdam - Norovirus (11/11/2012-12/5/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0148,Ruby Princess - Norovirus andEnterotoxigenic E. coli(ETEC) (10/09/2012-10/28/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0149,Dawn Princess - Norovirus (08/21/2012-09/13/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0150,Rhapsody of the Seas - Norovirus (08/24/2012-08/31/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0151,Carnival Glory - Norovirus (08/06/2012-08/11/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0152,Sun Princess - Norovirus (07/08/2012-07/21/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0153,Ruby Princess - Norovirus (02/26/2012-03/04/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0154,Crown Princess - Norovirus (02/04/2012-02/09/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0155,Celebrity Silhouette - Norovirus (01/29/2012-02/10/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0156,Celebrity Constellation - Norovirus (01/28/2012-02/11/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0157,Crown Princess - Norovirus (01/28/2012-02/04/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0158,Aurora - Norovirus (01/04/2012-01/26/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0159,Voyager of the Seas - Norovirus (01/28/2012-02/04/2012),CDC VSP,official_public_health,2012,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0160,ms Maasdam - Norovirus (12/23/2011–01/02/2012),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0161,Norwegian Spirit - Norovirus (12/18/2011–12/25/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0162,Ryndam - Norovirus (12/11/2011–12/18/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0163,Celebrity Solstice - Norovirus (11/28/2011–12/11/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0164,Ryndam - Norovirus (11/03/2011–11/20/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0165,Sea Princess - Norovirus (05/30/2011-06/09/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0166,National Geographic Sea Lion - Unknown (05/21/2011-05/28/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0167,Sea Princess - Norovirus (05/20/2011-05/30/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0168,Celebrity Millennium - Unknown (05/20/2011-05/27/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0169,Coral Princess - Norovirus (05/04/2011-05/19/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0170,Coral Princess - EnterotoxigenicE. coli(ETEC) (04/24/2011-05/04/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0171,MV Marina - EnterotoxigenicE. coli(ETEC) (02/26/2011-03/15/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0172,Celebrity Solstice - Norovirus (01/30/2011-02/06/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0173,Radiance of the Seas - Norovirus (01/03/2011-01/08/2011),CDC VSP,official_public_health,2011,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0174,Queen Mary 2 - Unknown (12/19/2010-01/03/2011),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0175,Crystal Symphony - Unknown (11/02/2010-11/21/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0176,Nieuw Amsterdam - Norovirus (10/18/2010-11/07/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0177,Carnival Glory - Norovirus (10/09/2010-10/16/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0178,Zuiderdam - Unknown (04/20/2010-05/08/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0179,Mercury - Norovirus (03/08/2010-03/19/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0180,Mercury - Norovirus (02/26/2010-03/08/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0181,Jewel of the Seas - Unknown (02/22/2010-03/05/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0182,Millennium - Norovirus (02/22/2010-03/05/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0183,Maasdam - Norovirus (02/19/2010-03/05/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0184,Mercury - Norovirus (02/15/2010-02/26/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0185,Balmoral - Unknown (01/05/2010-02/04/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0186,Queen Victoria - Unknown (01/12/2010-01/27/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0187,Queen Victoria - Norovirus (01/04/2010-01/12/2010),CDC VSP,official_public_health,2010,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0188,Amsterdam - Norovirus (12/02/2009-12/23/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0189,Seven Seas Mariner - Norovirus (12/02/2009-12/20/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0190,Norwegian Spirit - Norovirus (10/23/2009-11/08/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0191,Noordam - Norovirus (10/16/2009-11/1/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0192,Amsterdam - Unknown (5/23/2009-5/30/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0193,Coral Princess - Unknown (5/18/2009-5/25/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0194,Island Princess - Shigella sonneiand EnterotoxigenicE. coli(ETEC) (4/23/2009-5/07/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0195,Carnival Liberty - Norovirus (4/18/2009-4/25/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0196,Amsterdam - Cyclospora cayetanensis (4/2/2009-4/24/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0197,Celebrity Mercury - Norovirus (2/28/2009-3/15/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0198,Oosterdam - Norovirus (2/21/2009-2/28/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0199,Zaandam - Norovirus (2/5/2009-2/20/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0200,Coral Princess - Norovirus (2/3/2009-2/13/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0201,Celebrity Mercury - Norovirus (1/3/2009-1/17/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0202,Maasdam - Unknown (1/2/2009-1/9/2009),CDC VSP,official_public_health,2009,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0203,Zuiderdam - Norovirus (10/23/2008-11/09/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0204,Caribbean Princess - Norovirus (10/19/2008-10/26/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0205,Norwegian Jewel - Norovirus (10/8/2008-10/18/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0206,Grande Caribe - Norovirus (9/30/2008-10/12/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0207,Norwegian Jewel - Norovirus (9/28/2008-10/8/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0208,Seven Seas Mariner - Norovirus (8/27/2008-9/3/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0209,Veendam - Norovirus (6/13/2008-6/20/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0210,Norwegian Dream - Norovirus and EnterotoxigenicE. coli (ETEC) (4/13/2008-5/1/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0211,Zaandam - Norovirus (3/19/2008-4/3/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0212,Ryndam - Norovirus (2/15/2008-2/25/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0213,Holiday - Norovirus (1/24/2008-1/28/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0214,Norwegian Star - Norovirus (1/19/2008-1/27/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0215,Noordam - Norovirus (1/5/2008-1/16/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0216,Volendam - Norovirus (1/2/2008-1/12/2008),CDC VSP,official_public_health,2008,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0217,Pacific Princess - EnterotoxigenicE. coli(ETEC) (12/15/2007-1/10/2008),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0218,Emerald Princess - Norovirus (12/16/2007-12/26/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0219,Norwegian Pearl - Norovirus (11/30/2007-12/9/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0220,Zaandam - Norovirus (11/5/2007-11/20/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0221,Norwegian Dawn - Norovirus (10/14/2007-10/26/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0222,Norwegian Crown - Norovirus (8/12/2007-8/19/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0223,Carnival Spirit - Norovirus (6/13/2007-6/20/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0224,Liberty of the Seas - Norovirus (5/26/2007-6/2/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0225,Norwegian Star - Norovirus (5/19/2007-5/26/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0226,Norwegian Pearl - Specimens not obtained (4/13/2007-4/22/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0227,Volendam - Specimens not obtained (4/12/2007-4/22/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0228,Seven Seas Navigator - Norovirus (4/5/2007-4/16/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0229,Zenith - Norovirus (4/2/2007-4/13/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0230,Empress of the North - Norovirus (3/16/2007-3/21/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0231,Regal Princess - Unknown (3/13/2007-3/25/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0232,Ryndam - Norovirus (3/3/2007-3/13/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0233,"Seven Seas Mariner - Shigella, Salmonella, Enterobacter,andEntameoba histolytica (2/25/2007-3/9/2007)",CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0234,Ryndam - Norovirus (2/21/2007-3/3/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0235,Westerdam - Norovirus (2/2/2007-2/11/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0236,Spirit of Nantucket - Unknown (1/27/2007-2/3/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0237,Island Princess - Norovirus (1/26/2007-2/10/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0238,Ryndam - Norovirus (1/22/2007-2/21/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0239,Volendam - Specimens not obtained (1/22/2007-2/1/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0240,Queen Elizabeth 2 - Norovirus (1/8/2007-1/22/2007),CDC VSP,official_public_health,2007,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0241,Regal Princess - Norovirus (12/7/2006-12/27/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0242,Freedom of the Seas - Norovirus (12/3/2006-12/10/2006 (no sail recommendation)),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0243,Sun Princess - Norovirus (11/30/2006-12/10/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0244,Norwegian Wind - Norovirus (11/29/2006-12/9/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0245,Zaandam - Norovirus (11/26/2006-12/11/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0246,Freedom of the Seas - Norovirus (11/26/2006-12/3/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0247,Serenade of the Seas - Norovirus (11/18/2006-11/25/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0248,"Summit - Unknown, negative for norovirus (11/11/2006-11/25/2006)",CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0249,Adventure of the Seas - Norovirus (11/5/2006-11/12/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0250,Carnival Liberty - Norovirus (11/3/2006-11/19/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0251,Serenade of the Seas - Norovirus (10/29/2006-11/11/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0252,Constellation - Norovirus (10/27/2006-11/7/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0253,Island Princess - Norovirus (10/21/2006-11/5/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0254,Constellation - Norovirus (10/16/2006-10/27/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0255,Diamond Princess - Norovirus (9/2/2006-9/9/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0256,"Radiance of the Seas - Unknown, negative for norovirus (9/2/2006-9/9/2006)",CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0257,Mariner of the Seas - Norovirus (7/23/2006-7/30/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0258,Infinity - Norovirus (7/9/2006-7/16/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0259,Mercury - Norovirus (6/2/2006-6/9/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0260,Ryndam - Norovirus (5/28/2006-6/4/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0261,Ryndam - Norovirus (5/14/2006-5/21/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0262,Norwegian Star - Norovirus (5/14/2006-5/21/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0263,Norwegian Sun - Norovirus (5/13/2006-5/20/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0264,Explorer of the Seas - Norovirus (4/23/2006-4/30/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0265,Veendam - Norovirus (4/22-5/9/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0266,Amsterdam - Norovirus (3/22/2006-4/6/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0267,Mercury - Norovirus (3/17/2006-3/27/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0268,Island Princess - Norovirus (3/7/2006-3/22/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0269,Amsterdam - Norovirus (3/7/2006-3/22/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0270,Mercury - Norovirus (3/6/2006-3/17/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0271,Grandeur of the Seas - Norovirus (3/6/2006-3/11/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0272,Volendam - Norovirus (3/3/2006-3/13/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0273,Seven Seas Mariner - Unknown (2/28/2006-3/13/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0274,Explorer of the Seas - Norovirus (2/26/2006-3/5/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0275,Queen Mary 2 - EnterotoxigenicE. coli(ETEC) (2/8/2006-2/22/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0276,Minerva II - Unknown (1/12/2006-1/26/2006),CDC VSP,official_public_health,2006,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0277,Zuiderdam - Norovirus (12/30/2005-1/7/2006),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0278,Splendour of the Seas - Norovirus (11/12/2005-11/26/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0279,Sun Princess - Norovirus (5/9/2005-5/16/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0280,Dawn Princess - Norovirus (4/29/2005-5/14/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0281,Horizon - Unknown (4/23/2005-4/30/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0282,Crystal Symphony - Unknown (4/14/2005-4/25/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0283,Norwegian Crown - Unknown (3/13/2005-3/28/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0284,Royal Princess - Unknown (3/7/2005-3/24/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0285,Veendam - Norovirus (3/5/2005-3/12/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0286,Zenith - Norovirus (2/27/2005-3/13/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0287,Celebration - Norovirus (2/21/2005-2/26/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0288,Celebration - Norovirus (2/17/2005-2/21/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0289,Seven Seas Mariner - Salmonella (2/12/2005-2/24/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0290,Empress of the Seas - Norovirus (1/17/2005-1/28/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0291,Mariner of the Seas - Norovirus (1/16/2005-1/23/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0292,Veendam - Norovirus (1/15/2005-1/29/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0293,Ryndam - Norovirus (1/13/2005-1/29/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0294,Sun Princess - Norovirus (1/8/2005-1/18/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0295,Veendam - Norovirus (1/3/2005-1/15/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0296,Enchantment of the Seas - Norovirus (1/3/2005-1/8/2005),CDC VSP,official_public_health,2005,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0297,Coral Princess - Norovirus (12/28/2004-1/07/2005),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0298,Golden Princess - Norovirus (12/12/2004-12/19/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0299,Norwegian Dream - Norovirus (12/5/2004-12/12/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0300,Silver Shadow - Specimens not obtained (12/4/2004-12/14/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0301,M/V Explorer - Unknown (6/19/2004-12/8/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0302,Veendam - Unknown (9/26/2004-10/14/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0303,Regal Princess - Unknown (9/11/2004-9/20/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0304,Sun Princess - Unknown (9/13/2004-9/20/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0305,Sun Princess - Norovirus (9/6/2004-9/13/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0306,Nantucket Clipper - Specimens not obtained (9/3/2004-8/11/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0307,Silver Shadow - Unknown (7/26/2004-8/6/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0308,Pacific Princess - Unknown (7/25/2004-8/17/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0309,Serenade of the Seas - Unknown (6/6/2004-6/13/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0310,Island Princess - Unknown (6/5/2004-6/12/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0311,Island Princess - Norovirus (5/29/2004-6/5/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0312,Norwegian Crown - Norovirus (5/2/2004-5/9/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0313,Norwegian Crown - Norovirus (4/17/2004-5/2/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0314,Veendam - Norovirus (4/17/2004-5/2/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0315,Norwegian Wind - Specimens not obtained (4/17/2004-5/2/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0316,Rotterdam - Unknown (4/2/2004-4/15/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0317,Amsterdam - EnterotoxigenicE. coli(ETEC) (3/31/2004-4/17/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0318,Zenith - Norovirus (3/28/2004-4/11/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0319,Horizon - Norovirus (3/22/2004-4/2/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0320,Norwegian Crown - Norovirus (3/22/2004-4/4/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0321,"Royal Princess - Unknown, negative for norovirus (3/8/2004-3/25/2004)",CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0322,"Norwegian Crown - Unknown, negative for norovirus (3/7/2004-3/22/2004)",CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0323,Queen Mary 2 - Norovirus (2/23/2004-3/6/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0324,Brilliance of the Seas - Norovirus (2/16/2004-2/27/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0325,Queen Elizabeth 2 - Unknown (2/17/2004-3/1/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0326,The World - Specimens not obtained (2/3/2004-2/24/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0327,Oriana - Norovirus (2/20/2004-3/5/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0328,Carnival Celebration - Norovirus (2/9/2004-2/14/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0329,Ryndam - Norovirus (2/7/2004-2/14/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0330,Coral Princess - Norovirus (1/12/2004-1/22/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0331,Queen Elizabeth 2 - Specimens not obtained (1/5/2004-1/19/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0332,Legacy - Specimens not obtained (1/4/2004-1/10/2004),CDC VSP,official_public_health,2004,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0333,Legacy - Specimens not obtained (12/27/2003-1/3/2004),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0334,Volendam - Norovirus (12/21/2003-12/28/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0335,Carnival Legend - Norovirus (11/21/2003-11/29/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0336,Carnival Legend - Norovirus (11/13/2003-11/21/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0337,Carnival Holiday - Norovirus (10/16/2003-10/20/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0338,Carnival Holiday - Norovirus (10/11/2003-10/16/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0339,Nantucket Clipper - Specimens not obtained (10/4/2003-10/11/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0340,Norwegian Star - Specimens not obtained (9/21/2003-9/28/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0341,Clipper Odyssey - Specimens not obtained (8/15/2003-8/26/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0342,Regal Princess - Norovirus (8/18/2003-9/2/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0343,Star Princess - Norovirus (8/2/2003-8/9/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0344,Star Princess - Norovirus (7/26/2003-8/2/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0345,Rhapsody of the Seas - Specimens not obtained (7/20/2003-7/27/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0346,Norwegian Sky - Norovirus (5/17/2003-5/24/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0347,Royal Princess - Specimens not obtained (4/5/2003-4/22/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0348,Norwegian Dream - Norovirus (3/16/2003-3/31/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0349,Nantucket Clipper - Specimens not obtained (3/1/2003-3/6/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0350,Sun Dream - Norovirus (2/17/2003-2/24/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0351,Sun Princess - Norovirus (1/25/2003-2/9/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0352,Carnival Spirit - Norovirus (1/27/2003-2/4/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0353,Sun Dream - Norovirus (1/20/2003-2/3/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0354,Olympia Voyager - Unknown (1/15/2003-2/3/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0355,Regal Empress - Unknown (1/11/2003-1/18/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0356,Arabella - Specimens not obtained (1/11/2003-1/18/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0357,Queen Elizabeth 2 - Norovirus (1/5/2003-1/18/2003),CDC VSP,official_public_health,2003,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0358,Nantucket Clipper - Specimens not obtained (12/28/2002-1/4/2003),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0359,Norway - Specimens not obtained (12/28/2002-1/4/2003),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0360,Carnival Conquest - Norovirus (12/8/2002-12/15/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0361,Oceana - Norovirus (11/29/2002-12/12/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0362,Seven Seas Mariner - Salmonella (11/23/2002-12/2/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0363,Constellation - Norovirus (10/25/2002-11/8/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0364,Fascination - Norovirus (11/30/2002-12/2/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0365,Disney Magic - Norovirus (11/11/2002-11/21/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0366,Seabourn Pride - Specimens not obtained (10/28/2002-11/10/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0367,Amsterdam - Norovirus (11/11/2002-11/21/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0368,Amsterdam - Norovirus (10/1/2002-10/22/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0369,Nantucket Clipper - Sappovirus (10/19/2002-10/29/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0370,Norwegian Sun - Norovirus (9/28/2002-10/5/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0371,"Norwegian Dream - Shigella, Giardia (9/10/2002-9/25/2002)",CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0372,Norwegian Sun - Specimens not obtained (8/3/2002-8/10/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0373,Yorktown Clipper - Specimens not obtained (7/27/2002-8/3/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0374,Ryndam - Norovirus (7/25/2002-8/1/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0375,Ocean Princess - Norovirus (5/25/2002-6/1/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0376,Ryndam - Norovirus (4/7/2002-4/24/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0377,Amsterdam - Specimens not obtained (1/4/2002-4/28/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0378,Caronia - EnterotoxigenicE. coli(ETEC) /Shigella (3/24/2002-4/5/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0379,Nantucket Clipper - Norovirus (3/23/2002-3/30/2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0380,Carnival Pride - Norovirus (March 2002),CDC VSP,official_public_health,2002,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0381,Nantucket Clipper - Norovirus (September 2001),CDC VSP,official_public_health,2001,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0382,Mississippi - Norovirus (August 2001),CDC VSP,official_public_health,2001,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0383,Coronia - Norovirus (3/11/2001-3/29/2001),CDC VSP,official_public_health,2001,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0384,Oriana - Specimens not obtained (2/20/2001-3/14/2001),CDC VSP,official_public_health,2001,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0385,Disney Magic - Salmonella (6/2/2000-6/5/2000),CDC VSP,official_public_health,2000,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0386,Spirit of Glacier Bay - Norovirus (5/28/2000-6/1/2000),CDC VSP,official_public_health,2000,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0387,Palm Beach Princess - Specimens not obtained (5/18/2000-6/1/2000),CDC VSP,official_public_health,2000,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0388,Nantucket Clipper - Norovirus (2/5/2000-2/12/2000),CDC VSP,official_public_health,2000,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0389,Nantucket Clipper - Norovirus (1/22/2000-1/29/2000),CDC VSP,official_public_health,2000,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0390,Nantucket Clipper - Norovirus (1/15/2000-1/22/2000),CDC VSP,official_public_health,2000,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0391,Nantucket Clipper - Norovirus (1/30/1999-2/6/1999),CDC VSP,official_public_health,1999,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0392,Nantucket Clipper - Norovirus (1/23/1999-1/30/1999),CDC VSP,official_public_health,1999,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0393,Nantucket Clipper - Norovirus (1/16/1999-1/23/1999),CDC VSP,official_public_health,1999,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0394,Nantucket Clipper - Norovirus (1/9/1999-1/16/1999),CDC VSP,official_public_health,1999,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0395,Nantucket Clipper - Norovirus (1/2/1998-1/9/1999),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0396,Vision of the Seas - Specimens not obtained (11/28/1998-12/7/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0397,Norway - Norovirus (10/10/1998-10/24/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0398,Regal Princess - Norovirus (6/21/1998-6/28/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0399,Regal Princess - Norovirus (6/14/1998-6/21/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0400,Regal Princess - Norovirus (6/7/1998-6/14/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0401,Ocean Breeze - EnterotoxigenicE. coli(ETEC) (5/17/1998-5/24/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0402,Statendam - Specimens not obtained (3/29/1998-4/8/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0403,Legend of the Seas - Norovirus (2/28/1998-3/11/1998),CDC VSP,official_public_health,1998,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0404,Regal Empress - EnterotoxigenicE. coli(ETEC) (12/17/1997-12/21/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0405,Zenith - Specimens not obtained (12/5/1997-12/15/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0406,Nantucket Clipper - Norovirus (10/23/1997-10/30/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0407,Royal Princess - EnterotoxigenicE. coli(ETEC) (4/15/1997-4/19/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0408,Noordam - Cyclospora (3/29/1997-4/5/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0409,Royal Odyssey - Norovirus (3/25/1997-4/4/1997 (no sail recommendation)),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0410,Royal Odyssey - Norovirus (3/4/1997-3/14/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0411,Regal Princess - Specimens not obtained (2/13/1997-2/28/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0412,Nantucket Clipper - Norovirus (2/8/1997-2/15/1997),CDC VSP,official_public_health,1997,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0413,Jubilee - Norovirus (6/16/1996-6/23/1996),CDC VSP,official_public_health,1996,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0414,Noordam - Norovirus (4/27/1996-5/11/1996),CDC VSP,official_public_health,1996,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0415,Royal Princess - EnterotoxigenicE. coli(ETEC) (3/15/1996-3/26/1996),CDC VSP,official_public_health,1996,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0416,Horizon - Salmonella (7/15/1995-7/22/1995),CDC VSP,official_public_health,1995,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0417,Fantasy - Shigella sonnei (4/30/1995-5/4/1995),CDC VSP,official_public_health,1995,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0418,Crown Odyssey - EnterotoxigenicE. coli(ETEC) (1/12/1995-1/26/1995),CDC VSP,official_public_health,1995,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0419,Viking Serenade - Shigella flexneri (8/29/1994-9/1/1994),CDC VSP,official_public_health,1994,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0420,Horizon - Legionella (6/26/1994-7/2/1994),CDC VSP,official_public_health,1994,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0421,StarShip Oceanic - Norovirus (6/13/1994-6/17/1994),CDC VSP,official_public_health,1994,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0422,Regent Rainbow - Viral gastroenteritis (3/18/1994-4/1/1994),CDC VSP,official_public_health,1994,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0423,American Adventure - Shigella flexneri (12/26/1993-2/2/1994),CDC VSP,official_public_health,1993,full_text,include,,CDC VSP official outbreak report; meets inclusion criteria
+SR-0424,Andes hantavirus outbreak on a cruise ship - an ESCMID Emerging Infections Subcommittee (EIS) rapid assessment.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0425,Cruise-ship hantavirus cluster exposes a wider preparedness gap.,PubMed,academic,2026,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0426,Hantavirus: French and US nationals test positive as cruise ship docks in Canary Islands.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0427,"""Navigating Healthy Waters"": monitoring ship wastewater as a key defense against infectious diseases-a pilot study on a Mediterranean seaport.",PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0428,"When Rare Zoonoses Travel: Andes virus, Hantavirus Cardiopulmonary Syndrome, and the Preparedness Gap.",PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0429,Lethal Hantavirus at Sea: Infectious Disease Outbreaks on Cruise Ships and Limits of Preparedness.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0430,Hantavirus: Three dead in cruise ship outbreak as authorities investigate human-to-human transmission.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0431,Hantavirus crops up on a cruise ship - what scientists are watching.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0432,Passive wastewater surveillance of viral pathogens on cruise ships as a powerful tool for public health protection.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0433,Seabird responses to altered marine vessel activity during the COVID-19 anthropause: insights from citizen science.,PubMed,academic,2026,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0434,Real-time spatiotemporal tracking of infectious outbreaks in confined environments with a host-pathogen agent-based system.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0435,IMPROVING HAND HYGIENE IN CRUISE SHIP: AN INTERVENTION STUDY.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0436,Exhaled CO2 and aerosol dispersion on a cruise ship: Airflow and infection risk insights.,PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0437,"Travel After Transplant: Demographics, Travel Trends, and Vaccination Practices of US Immunocompromised Travelers.",PubMed,academic,2026,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0438,Examination of factors affecting SARS-CoV-2 transmission among healthcare workers following a large healthcare-associated outbreak of COVID-19 in North West Tasmania.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0439,Preventing SARS-CoV-2 superspreading events with antiviral intranasal sprays.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0440,"Most Common Causes of Death Among Travelers on Aircraft and Maritime Vessels and During Land-Border Crossings Reported to the Centers for Disease Control and Prevention, 2008-2022.",PubMed,academic,2025,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0441,"Legionella sheltonii sp. nov., a novel species isolated on a cruise ship during routine monitoring.",PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0442,Mitigating norovirus spread on cruise ships: a model-based assessment of diagnostic timing and isolation.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0443,"Clade II Mpox Infections Among Cruise Ship Passengers and Crew Members - United States, 2024.",PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0444,"Public Health Response to COVID-19 Among Travelers Disembarked From the Grand Princess Cruise Ship, March 2020.",PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0445,Estimating epidemic dynamics with genomic and time series data.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0446,Practicing pharmacist education based on the experiences of medical support on the cruise ship Diamond Princess.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0447,Monitoring of indoor air quality at a large sailing cruise ship to assess ventilation performance and disease transmission risk.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0448,Public good or climate washing? A guideline for climate and health researchers considering funding from carbon-intensive industries.,PubMed,academic,2024,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0449,"Two Outbreaks of Legionnaires Disease Associated with Outdoor Hot Tubs for Private Use - Two Cruise Ships, November 2022-July 2024.",PubMed,academic,2024,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0450,Evaluating infectious disease outbreak potential and mitigation effectiveness on cruise ships.,PubMed,academic,2024,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0451,The impact of the cruise ship Coral Princess on COVID-19 transmission in regional Western Australia in 2022.,PubMed,academic,2025,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0452,Using a bottom-up method to assess cruise ship activity impacts on emissions during 2019-2020 in China.,PubMed,academic,2024,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0453,"Systematic literature review and meta-analysis on preventing and controlling norovirus outbreaks on cruise ships, 1990 to 2020: calling for behaviour change strategies of travellers.",PubMed,academic,2024,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0454,"Large outbreak of typhoid fever on a river cruise ship used as accommodation for asylum seekers, the Netherlands, 2022.",PubMed,academic,2024,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0455,Estimates of early outbreak-specific SARS-CoV-2 epidemiological parameters from genomic data.,PubMed,academic,2024,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0456,The Epidemiology of Maritime Patients Requiring Medical Evacuation: A Literature Review.,PubMed,academic,2023,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0457,"Responses to the correspondence on ""COVID-19 on board a cruise ship: medical management"".",PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0458,"""COVID-19 on board a cruise ship: medical management"" - correspondence.",PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0459,A SARS-CoV-2 Omicron outbreak among crew members on a cruise ship in Germany in early 2022.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0460,The value of universal screening for COVID-19 cases on cruise ships during outbreaks.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0461,Influenza: seasonality and travel-related considerations.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0462,"Notes from the Field: Cruise Ship Norovirus Outbreak Associated with Person-to-Person Transmission - United States Jurisdiction, January 2023.",PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0463,Zombie Cruise Ship Virtual Escape Room for POCUS Pulmonary: Scan Your Way Out.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0464,COVID-19 on board a cruise ship: medical management.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0465,Lessons learned from practices during the initial response to COVID-19 on the cruise ship Diamond Princess.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0466,Can ship travel contain COVID-19 outbreak after re-opening: a Bayesian meta-analysis.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0467,"An empirical and modelling approach to the evaluation of cruise ships' influence on air quality: The case of La Paz, Mexico.",PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0468,A Quieter Ocean: Experimentally Derived Differences in Attentive Responses of Tursiops truncatus to Anthropogenic Noise Playbacks before and during the COVID-19-Related Anthropause.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0469,Compulsory insurance for cruise vessels as a preparation for the next pandemic: Law of the sea perspective.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0470,"Extensive Spread of SARS-CoV-2 Delta Variant among Vaccinated Persons during 7-Day River Cruise, the Netherlands.",PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0471,The impact of the COVID-19 outbreak on Japanese shipping industry: An event study approach.,PubMed,academic,2023,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0472,Transmission of SARS-CoV-2 Associated with Cruise Ship Travel: A Systematic Review.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0473,A major outbreak of the COVID-19 on the Diamond Princess cruise ship: Estimation of the basic reproduction number.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0474,COVID-19 outbreaks on ships: Analysis of three representative cases.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0475,Impacts of cruise ship anchoring during COVID-19: Management failures and lessons learnt.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0476,Mental health needs associated with COVID-19 on the diamond princess cruise ship: A case series recorded by the disaster psychiatric assistance team.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0477,"Comparison of effectiveness of enhanced infection countermeasures in different scenarios, using a dynamic-spread-function model.",PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0478,"The value of contact tracing and isolation in mitigation of COVID-19 epidemic: findings from outbreak investigation of COVID-19 onboard Nile Cruise Ship, Egypt, March 2020.",PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0479,Quantitative Real-Time RT-PCR Systems to Detect SARS-CoV-2.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0480,An integrated expert weight determination method for design concept evaluation.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0481,"Mosquito surveillance in maritime entry ports in Miami-Dade County, Florida to increase preparedness and allow the early detection of invasive mosquito species.",PubMed,academic,2022,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0482,Transmission data of Covid 19- Lessons of diamond princess cruise ship event.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0483,"Lessons learnt from the first large outbreak of COVID-19 in health-care settings in Tasmania, Australia.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0484,"Risk factors, immune response and whole-genome sequencing of SARS-CoV-2 in a cruise ship outbreak in Norway.",PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0485,Unique Evolution of SARS-CoV-2 in the Second Large Cruise Ship Cluster in Japan.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0486,Stochasticity among Victims of COVID-19 Pandemic.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0487,"A review of COVID-19 transmission dynamics and clinical outcomes on cruise ships worldwide, January to October 2020.",PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0488,"'COVID containers' in pandemic mediascapes: discursive economies of health, bodies, and race in North America.",PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0489,Age dependence of the natural history of infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2): an analysis of Diamond Princess data.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0490,The utility of SARS-CoV-2-specific serology in COVID-19 diagnosis.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0491,Influenza epidemic on a world cruise ship: A descriptive study.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0492,[The problems of organization of medical care of crews of passenger ships in the system of inner water transport of the Russian Federation].,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0493,How to control cruise ship disease risk? Inspiration from the research literature.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0494,Performance of anti-SARS-CoV-2 antibody testing in asymptomatic or mild COVID-19 patients: A retrospective study in outbreak on a cruise ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0495,"Acute Gastroenteritis on Cruise Ships - Maritime Illness Database and Reporting System, United States, 2006-2019.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0496,SARS-CoV-2 infections among Australian passengers on the Diamond Princess cruise ship: A retrospective cohort study.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0497,Dynamic network strategies for SARS-CoV-2 control on a cruise ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0498,"Epidemiology of Coronavirus Disease Outbreak among Crewmembers on Cruise Ship, Nagasaki City, Japan, April 2020.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0499,Development of Corona-virus-disease-19 Vaccines.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0500,[A Report from the Front Line of New Coronavirus Treatment].,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0501,Possibility of transmission of severe acute respiratory syndrome coronavirus 2 in a tertiary care hospital setting: A case study.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0502,Influenza-Like Illness Among Personnel Responding to U.S. Quarantine of Cruise Ship Passengers Exposed to SARS-CoV-2.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0503,How is the iceberg of COVID-19? Results from a rapid literature review.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0504,Prevalence of COVID-19 and the Continued Citizen-Based Control in Japan.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0505,Efficacy of Chest Radiography as a Primary Care Triage Tool in Severe Coronavirus Disease.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0506,"Travel medicine meets conservation medicine in St. Kitts: Disinhibition, cognitive-affective inconsistency, and disease risk among vacationers around green monkeys (Chlorocebus sabaeus).",PubMed,academic,2022,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0507,Viral transmission and evolution dynamics of SARS-CoV-2 in shipboard quarantine.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0508,"Clinical characteristics and outcomes of COVID-19 in a low-prevalence, well resourced setting, Sydney, Australia.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0509,Trauma- and stressor-related disorders in survivors from a shipwreck: a short report on forensic implications.,PubMed,academic,2021,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0510,The cruise industry and the COVID-19 outbreak.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0511,"Detection of SARS-CoV-2 using qRT-PCR in saliva obtained from asymptomatic or mild COVID-19 patients, comparative analysis with matched nasopharyngeal samples.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0512,Mask-Ematics: Modeling the Effects of Masks in COVID-19 Transmission in High-Risk Environments.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0513,"Demographics, clinical characteristics and outcomes among 197 patients with COVID-19 in the Gold Coast area.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0514,Shedding of Viable Virus in Asymptomatic SARS-CoV-2 Carriers.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0515,Estimating COVID-19 mortality in Italy early in the COVID-19 pandemic.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0516,Cruise Ship Travel in the Era of Coronavirus Disease 2019 (COVID-19): A Summary of Outbreaks and a Model of Public Health Interventions.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0517,A systematic approach to estimating the effectiveness of multi-scale IAQ strategies for reducing the risk of airborne infection of SARS-CoV-2.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0518,Managing passenger flows for seaborne transportation during COVID-19 pandemic.,PubMed,academic,2021,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0519,Cruise ship dining experiencescape: The perspective of female cruise travelers in the midst of the COVID-19 pandemic.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0520,"Successful Control of an Onboard COVID-19 Outbreak Using the Cruise Ship as a Quarantine Facility, Western Australia, Australia.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0521,Lack of cross-transmission of SARS-CoV-2 between passenger's cabins on the Diamond Princess cruise ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0522,Association between underlying disease and serious events on a world cruise ship: A prospective cohort study.,PubMed,academic,2021,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0523,Prevention and Control of COVID-19 Pandemic on International Cruise Ships: The Legal Controversies.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0524,Estimation of the SARS-CoV-2 transmission probability in confined traffic space and evaluation of the mitigation strategies.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0525,"Erratum: Chest CT Findings in Cases from the Cruise Ship ""Diamond Princess"" with Coronavirus Disease 2019 (COVID-19).",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0526,Chest CT Findings in Cases from the Cruise Ship Diamond Princess with Coronavirus Disease (COVID-19).,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0527,Daily briefing: Cruise ship coronavirus outbreak gave scientists 'an ideal experiment'.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0528,"[Field investigations of SARS-CoV-2-outbreaks in Germany by the Robert Koch Institute, February-October 2020].",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0529,Taking account of asymptomatic infections: A modeling study of the COVID-19 outbreak on the Diamond Princess cruise ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0530,Lessons learned from keeping NSW's prisons COVID-free.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0531,"COVID-19: cross-border contact tracing in Germany, February to April 2020.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0532,The dynamic change of antibody index against Covid-19 is a powerful diagnostic tool for the early phase of the infection and salvage PCR assay errors.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0533,Transmission dynamics of SARS-CoV-2 on the Diamond Princess uncovered using viral genome sequence analysis.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0534,Symptoms and laboratory manifestations of mild COVID-19 in a repatriated cruise ship cohort.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0535,Mechanistic transmission modeling of COVID-19 on the Diamond Princess cruise ship demonstrates the importance of aerosol transmission.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0536,Exploring geographical distribution of transportation research themes related to COVID-19 using text network approach.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0537,The Bayesian Susceptible-Exposed-Infected-Recovered model for the outbreak of COVID-19 on the Diamond Princess Cruise Ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0538,"Use of US Public Health Travel Restrictions during COVID-19 Outbreak on Diamond Princess Ship, Japan, February-April 2020.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0539,Travel-related control measures to contain the COVID-19 pandemic: a rapid review.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0540,Reconstitution of Oseltamivir Capsules for Pediatric Use on a Long-Term Cruise: A Treatment Option.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0541,The psychological effects of COVID-19 on hospital workers at the beginning of the outbreak with a large disease cluster on the Diamond Princess cruise ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0542,Four Cases of Coronavirus Disease 2019 Transferred from a Cruise Ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0543,"Epidemiology and quarantine measures during COVID-19 outbreak on the cruise ship Diamond Princess docked at Yokohama, Japan in 2020: a descriptive analysis.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0544,"Challenges of COVID-19 outbreak on the cruise ship Diamond Princess docked at Yokohama, Japan: a real-world story.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0545,"The Perspective of Coronavirus Disease Outbreak: Epidemiology, Transmission, and Possible Treatment.",PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0546,Global health governance for travel health: lessons learned from the coronavirus disease 2019 (COVID-19) outbreaks in large cruise ships.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0547,Japan DMAT operations in the Diamond Princess cruise ship: COVID-19 medical operation.,PubMed,academic,,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0548,Lessons learned for COVID-19 in the cruise ship industry.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0549,How many COVID-19 PCR positive individuals do we expect to see on the Diamond Princess cruise ship?,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0550,Reproductive number of coronavirus: A systematic review and meta-analysis based on global level evidence.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0551,Lessons Learned From a COVID-19 Biohazard Spill During Swabbing at a Quarantine Facility.,PubMed,academic,2022,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0552,Clinical and Microbiological Features of Asymptomatic SARS-CoV-2 Infection and Mild COVID-19 in Seven Crewmembers of a Cruise Ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0553,Evaluating the Need for Routine COVID-19 Testing of Emergency Department Staff: Quantitative Analysis.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0554,Flight-Associated Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 Corroborated by Whole-Genome Sequencing.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0555,Fear and Trembling of Cruise Ship Employees: Psychological Effects of the COVID-19 Pandemic.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0556,Dynamic Network Strategies for SARS-CoV-2 Control on a Cruise Ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0557,Corrigendum to: Environmental Sampling for Severe Acute Respiratory Syndrome Coronavirus 2 During a COVID-19 Outbreak on the Diamond Princess Cruise Ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0558,COVID-19 outbreak on the Costa Atlantica cruise ship: use of a remote health monitoring system.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0559,Variation and multilevel selection of SARS-CoV-2.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0560,Tracking COVID-19: There's an App for That.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0561,A comparative analysis of control measures on-board ship against COVID-19 and similar novel viral respiratory disease outbreak: Quarantine ship or disembark suspects?,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0562,Fighting COVID-19 through Government Initiatives and Collaborative Governance: The Taiwan Experience.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0563,An emergency responding mechanism for cruise epidemic prevention-taking COVID-19 as an example.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0564,The contribution of asymptomatic SARS-CoV-2 infections to transmission on the Diamond Princess cruise ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0565,"Epidemiology of COVID-19 Outbreak on Cruise Ship Quarantined at Yokohama, Japan, February 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0566,"Renin-angiotensin system inhibitors and the severity of coronavirus disease 2019 in Kanagawa, Japan: a retrospective cohort study.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0567,Emergence of coronavirus disease 2019 (COVID-19) in Austria.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0568,Comparison of the Clinical Course of COVID-19 Pneumonia and Acute Respiratory Distress Syndrome in 2 Passengers from the Cruise Ship Diamond Princess in February 2020.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0569,Airway Hygiene in COVID-19 Pneumonia: Treatment Responses of 3 Critically Ill Cruise Ship Employees.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0570,Insights on Coronavirus Disease 2019 Epidemiology From a Historic Cruise Ship Quarantine.,PubMed,academic,2021,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0571,Coronavirus Disease 2019 (COVID-19) in Americans Aboard the Diamond Princess Cruise Ship.,PubMed,academic,2021,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0572,An Experience of the Ibaraki Disaster Psychiatric Assistance Team on the Diamond Princess Cruise Ship: Mental Health Issues Induced by COVID-19.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0573,Minimizing disease spread on a quarantined cruise ship: A model of COVID-19 with asymptomatic infections.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0574,"Quarantine measures for coronavirus disease 2019 on a cruise ship, Taiwan, February 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0575,COVID-19 outbreak on the Diamond Princess Cruise Ship in February 2020.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0576,Haplotype networks of SARS-CoV-2 infections in the Diamond Princess cruise ship outbreak.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0577,Environmental Sampling for Severe Acute Respiratory Syndrome Coronavirus 2 During a COVID-19 Outbreak on the Diamond Princess Cruise Ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0578,[Retrospective analysis of the on-site treatment of the coronavirus disease 2019 epidemic on the Costa Crociere cruise].,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0579,"Cruise Ships, Nursing Homes, and Prisons as COVID-19 Epicenters: A ""Wicked Problem"" With Breakthrough Solutions?",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0580,Detection of SARS-CoV-2 RNA in commercial passenger aircraft and cruise ship wastewater: a surveillance tool for assessing the presence of COVID-19 infected travellers.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0581,Asymptomatic COVID-19 or are we missing something?,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0582,"The first 2 months of COVID-19 contact tracing in the Northern Territory of Australia, March-April 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0583,Underperformance of Reverse-Transcriptase Polymerase Chain Reaction in Japan and Potential Implications From Diamond Princess Cruise Ship and Other Countries During the Ongoing COVID-19 Pandemic.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0584,SARS-CoV-2 Genome Analysis of Japanese Travelers in Nile River Cruise.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0585,Three Novel COVID-19 Pneumonia Cases Successfully Treated With Lopinavir/Ritonavir.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0586,Clinical characteristics of the coronavirus disease 2019 (COVID-19) outbreak on a cruise ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0587,Clinical course of a critically ill patient with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0588,"Descriptive study of COVID-19 outbreak among passengers and crew on Diamond Princess cruise ship, Yokohama Port, Japan, 20 January to 9 February 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0589,Clinical characteristics of COVID-19 in 104 people with SARS-CoV-2 infection on the Diamond Princess cruise ship: a retrospective analysis.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0590,SARS-CoV-2 shedding and seroconversion among passengers quarantined after disembarking a cruise ship: a case series.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0591,"Duration of viral shedding in asymptomatic or mild cases of novel coronavirus disease 2019 (COVID-19) from a cruise ship: A single-hospital experience in Tokyo, Japan.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0592,Japanese citizens' behavioral changes and preparedness against COVID-19: An online survey during the early phase of the pandemic.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0593,Genomic surveillance reveals multiple introductions of SARS-CoV-2 into Northern California.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0594,A Genomic Survey of SARS-CoV-2 Reveals Multiple Introductions into Northern California without a Predominant Lineage.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0595,CrAssphage as a Novel Tool to Detect Human Fecal Contamination on Environmental Surfaces and Hands.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0596,Medical Transport for 769 COVID-19 Patients on a Cruise Ship by Japan Disaster Medical Assistance Team.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0597,"Evidence for Limited Early Spread of COVID-19 Within the United States, January-February 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0598,COVID-19: in the footsteps of Ernest Shackleton.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0599,The COVID-19 Infection in Italy: A Statistical Study of an Abnormally Severe Disease.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0600,Clinical course of 2019 novel coronavirus disease (COVID-19) in individuals present during the outbreak on the Diamond Princess cruise ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0601,Presumed COVID-19 index case on diamond princess cruise ship and evacuees to Hong Kong.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0602,From plague to coronavirus: vessel trajectory data from ship automatic identification systems for epidemic modeling.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0603,"Using the contact network model and Metropolis-Hastings sampling to reconstruct the COVID-19 spread on the ""Diamond Princess"".",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0604,Preparation for Quarantine on the Cruise Ship Diamond Princess in Japan due to COVID-19.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0605,The 2019 novel coronavirus disease (COVID-19) pandemic: A review of the current evidence.,PubMed,academic,,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0606,Airborne route and bad use of ventilation systems as non-negligible factors in SARS-CoV-2 transmission.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0607,"Containing COVID-19 Among 627,386 Persons in Contact With the Diamond Princess Cruise Ship Passengers Who Disembarked in Taiwan: Big Data Analytics.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0608,"Notes from the Field: Multiple Cruise Ship Outbreaks of Norovirus Associated with Frozen Fruits and Berries - United States, 2019.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0609,Veno-venous extracorporeal membrane oxygenation for severe pneumonia: COVID-19 case in Japan.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0610,COVID-19 first stage in Japan - how we treat 'Diamond Princess Cruise Ship' with 3700 passengers?,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0611,Environmental cleaning is effective for the eradication of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus in contaminated hospital rooms: A patient from the Diamond Princess cruise ship.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0612,SARS-CoV-2 and Legionella co-infection in a person returning from a Nile cruise.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0613,The Petri-Dish Effect.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0614,"Estimating the infection and case fatality ratio for coronavirus disease (COVID-19) using age-adjusted data from the outbreak on the Diamond Princess cruise ship, February 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0615,What the cruise-ship outbreaks reveal about COVID-19.,PubMed,academic,2020,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0616,"Public Health Responses to COVID-19 Outbreaks on Cruise Ships - Worldwide, February-March 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0617,Coronavirus (Covid-19) outbreak on the cruise ship Diamond Princess.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0618,Chronology of COVID-19 Cases on the Diamond Princess Cruise Ship and Ethical Considerations: A Report From Japan.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0619,"Initial Investigation of Transmission of COVID-19 Among Crew Members During Quarantine of a Cruise Ship - Yokohama, Japan, February 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0620,"Estimating the asymptomatic proportion of coronavirus disease 2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0621,Case-Fatality Risk Estimates for COVID-19 Calculated by Using a Lag Time for Fatality.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0622,Backcalculating the Incidence of Infection with COVID-19 on the Diamond Princess.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0623,"COVID-19 in 2 Persons with Mild Upper Respiratory Tract Symptoms on a Cruise Ship, Japan.",PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0624,COVID-19 outbreak on the Diamond Princess cruise ship: estimating the epidemic potential and effectiveness of public health countermeasures.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0625,Estimation of the reproductive number of novel coronavirus (COVID-19) and the probable outbreak size on the Diamond Princess cruise ship: A data-driven analysis.,PubMed,academic,2020,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0626,Norovirus-induced Gastroparesis.,PubMed,academic,2019,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0627,Help Your Patients Stay Healthy on Their Cruise Vacation: Suggestions for Primary Care Physicians from a Cruise Ship Physician.,PubMed,academic,2019,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0628,Subcutaneous Sparganosis of the Breast.,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0629,Patterns of injury amongst cruise ship passengers requiring hospitalisation.,PubMed,academic,2018,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0630,Gastroenteritis outbreaks on cruise ships: are sanitation inspection scores a true index of risk?,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0631,"Outbreak of Acute Gastroenteritis Caused by Norovirus Genogroup II Attributed to Contaminated Cold Dishes on a Cruise Ship in Chongqing, China, 2017.",PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0632,Estimating the incidence of norovirus acute gastroenteritis among US and European international travelers to areas of moderate to high risk of traveler's diarrhea: a prospective cohort study protocol.,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0633,Cruise ship pathologies in remote regions.,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0634,Fine grained compositional analysis of Port Everglades Inlet microbiome using high throughput DNA sequencing.,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0635,Quantifying the relative effects of environmental and direct transmission of norovirus.,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0636,"Maritime varicella illness and death reporting, U.S., 2010-2015.",PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0637,"Increase in Hospital Admissions for Severe Influenza A/B among Travelers on Cruise Ships to Alaska, 2015.",PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0638,Diarrhea and related factors among passengers on world cruises departing from Japan.,PubMed,academic,2018,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0639,High-Quality Whole-Genome Sequences for 21 Enterotoxigenic Escherichia coli Strains Generated with PacBio Sequencing.,PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0640,Practicing medicine on the high seas: a review of South African doctors' careers in cruise ship medicine.,PubMed,academic,2018,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0641,Gastroenteritis outbreaks on cruise ships: contributing factors and thresholds for early outbreak detection.,PubMed,academic,2017,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0642,"Laboratory-based respiratory virus surveillance pilot project on select cruise ships in Alaska, 2013-15.",PubMed,academic,2017,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0643,"Rapid Risk Assessment Report for Schistosomiasis Epidemic in Jianli County Caused by the Sunk ""Oriental Star"" Cruise Ship.",PubMed,academic,2018,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0644,Complete Genome Sequence of Human Norovirus GII.Pe-GII.4 Sydney from the United States.,PubMed,academic,2017,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0645,Travellers and influenza: risks and prevention.,PubMed,academic,2017,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0646,Acute gastrointestinal haemorrhage on board a cruise ship in the Antarctic Peninsula.,PubMed,academic,2016,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0647,"Norovirus GII.Pe Genotype: Tracking a Foodborne Outbreak on a Cruise Ship Through Molecular Epidemiology, Brazil, 2014.",PubMed,academic,2017,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0648,Contact infection of infectious disease onboard a cruise ship.,PubMed,academic,2016,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0649,Development of a Nanobody-Based Lateral Flow Immunoassay for Detection of Human Norovirus.,PubMed,academic,2016,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0650,Understanding the Outcome in the Chinese Changjiang Disaster in 2015: A Retrospective Study.,PubMed,academic,2017,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0651,Air travel-related symptomatic deep venous thrombosis in cruise ship passengers.,PubMed,academic,2016,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0652,"Burn Care on Cruise Ships-Epidemiology, international regulations, risk situation, disaster management and qualification of the ship's doctor.",PubMed,academic,2016,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0653,Respiratory infections and gastrointestinal illness on a cruise ship: A three-year prospective study.,PubMed,academic,2016,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0654,An epidemiological study of rates of illness in passengers and crew at a busy Caribbean cruise port.,PubMed,academic,2016,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0655,Mortality of German travellers on passenger vessels.,PubMed,academic,2016,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0656,"Acute Gastroenteritis on Cruise Ships - United States, 2008-2014.",PubMed,academic,2016,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0657,A three-year follow-up on injuries sustained by cruise ship passengers and crew treated at the Orthopaedic and Traumatology Department at Dubrovnik County Hospital.,PubMed,academic,2015,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0658,"An outbreak of multiple norovirus strains on a cruise ship in China, 2014.",PubMed,academic,2016,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0659,Infections on Cruise Ships.,PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0660,"Extensive Nosocomial Transmission of Measles Originating in Cruise Ship Passenger, Sardinia, Italy, 2014.",PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0661,Evaluation of a New Environmental Sampling Protocol for Detection of Human Norovirus on Inanimate Surfaces.,PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0662,Determinants of injuries in passenger vessel accidents.,PubMed,academic,2015,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0663,Influenza Outbreaks Among Passengers and Crew on Two Cruise Ships: A Recent Account of Preparedness and Response to an Ever-Present Challenge.,PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0664,Penile ulceration caused by a foreign body reaction in a crew member on board a cruise ship.,PubMed,academic,2015,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0665,Consumer education needed on norovirus prevention and control: findings from a nationally representative survey of U.S. adults.,PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0666,Treatment and prevention of infection following bites of the Antarctic fur seal (Arctocephalus gazella).,PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0667,Qualification of ship doctors: a German approach.,PubMed,academic,2014,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0668,"Draft Genome Sequence of C:P1.5-1,10-8:F3-6:ST-11 Meningococcal Clinical Isolate Associated with a Cluster on a Cruise Ship.",PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0669,"Measles associated with international travel in the region of the Americas, Australia and Europe, 2001-2013: a systematic review.",PubMed,academic,2015,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0670,"Acute gastroenteritis, video camera and cruise ship.",PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0671,Identification of proteolytic bacteria from the Arctic Chukchi Sea expedition cruise and characterization of cold-active proteases.,PubMed,academic,2014,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0672,"Influenza B outbreak on a cruise ship off the São Paulo Coast, Brazil.",PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0673,Molecular characterization of influenza B virus outbreak on a cruise ship in Brazil 2012.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0674,Authors reply: measles on the cruise ship: links with virus spreading into an emergency department in Southern Italy.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0675,Letter to the editor: measles on the cruise ship: links with virus spreading into an emergency department in Southern Italy.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0676,Norovirus outbreaks on commercial cruise ships: a systematic review and new targets for the public health agenda.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0677,Pattern of passenger injury and illness on expedition cruise ships to Antarctica.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0678,Author's reply: measles on a cruise ship--links with the outbreak in the Philippines.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0679,Measles on a cruise ship: links with the outbreak in the Philippines.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0680,Molecular surveillance of hepatitis A virus in Argentina: first subgenotype IB detected in a traveler.,PubMed,academic,2014,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0681,Acute gastroenteritis and video camera surveillance: a cruise ship case report.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0682,Long-lasting adverse effects after short-term low-dose treatment with metoclopramide for vomiting.,PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0683,"Measles outbreak on a cruise ship in the western Mediterranean, February 2014, preliminary report.",PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0684,Self-reported stomach upset in travellers on cruise-based and land-based package holidays.,PubMed,academic,2014,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0685,"Point-of-care syndrome-based, rapid diagnosis of infections on commercial ships.",PubMed,academic,2014,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0686,First vaccines targeting 'cruise ship virus' sail into clinical trials.,PubMed,academic,2013,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0687,Early psychological care of the French victims of the Costa Concordia shipwreck.,PubMed,academic,2013,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0688,"Travel-associated Legionnaires' disease in Europe, 2010.",PubMed,academic,2013,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0689,"Rapid detection of norovirus in naturally contaminated food: foodborne gastroenteritis outbreak on a cruise ship in Brazil, 2010.",PubMed,academic,2012,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0690,"Cluster of invasive Neisseria meningitidis infections on a cruise ship, Italy, October 2012.",PubMed,academic,2012,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0691,"Measles, rubella, and varicella among the crew of a cruise ship sailing from Florida, United States, 2006.",PubMed,academic,2012,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0692,An outbreak of Cyclospora infection on a cruise ship.,PubMed,academic,2013,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0693,Water Safety Plan on cruise ships: a promising tool to prevent waterborne diseases.,PubMed,academic,2012,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0694,Pandemic planning as risk management: how fared the Australian federation?,PubMed,academic,2012,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0695,"Deaths in international travelers arriving in the United States, July 1, 2005 to June 30, 2008.",PubMed,academic,2012,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0696,"Disease transmission and passenger behaviors during a high morbidity Norovirus outbreak on a cruise ship, January 2009.",PubMed,academic,2011,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0697,Varicella at sea: a two-year study on cruise ships.,PubMed,academic,2011,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0698,Individualizing a capstone project: a cruise ship nurse creates a brochure about the Norwalk virus.,PubMed,academic,2011,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0699,Outbreaks of pandemic (H1N1) 2009 and seasonal influenza A (H3N2) on cruise ship.,PubMed,academic,2010,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0700,Varicella among seafarers: a case study on testing and vaccination as a cost-effective method of prevention.,PubMed,academic,2010,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0701,Passenger accidents and injuries reported during 3 years on a cruise ship.,PubMed,academic,2010,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0702,Norovirus outbreak in a cruise ship sailing around the British Isles: investigation and multi-agency management of an international outbreak.,PubMed,academic,2010,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0703,Cardiovascular emergencies in cruise ship passengers.,PubMed,academic,2010,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0704,Hepatitis E outbreak on cruise ship.,PubMed,academic,2009,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0705,Cruise ship environmental hygiene and the risk of norovirus infection outbreaks: an objective assessment of 56 vessels over 3 years.,PubMed,academic,2009,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0706,Posttraumatic appendicitis: further extending the extended Focused Assessment with Sonography in Trauma examination.,PubMed,academic,2009,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0707,Tracking the transmission routes of genogroup II noroviruses in suspected food-borne or environmental outbreaks of gastroenteritis through sequence analysis of the P2 domain.,PubMed,academic,2009,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0708,Interpopulation study of medical attendance aboard a cruise ship.,PubMed,academic,2008,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0709,Crew accidents reported during 3 years on a cruise ship.,PubMed,academic,2008,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0710,Gastrointestinal illness associated with a long-haul flight.,PubMed,academic,2009,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0711,"Passenger behaviors associated with norovirus infection on board a cruise ship--Alaska, May to June 2004.",PubMed,academic,2008,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0712,Passenger behaviors during norovirus outbreaks on cruise ships.,PubMed,academic,2008,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0713,Illness and injury to travellers on a premium expedition to Iceland.,PubMed,academic,2008,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0714,Dental practice during a world cruise: treatment needs and demands of crew.,PubMed,academic,2007,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0715,"Shipshape: sanitation inspections on cruise ships, 1990-2005, Vessel Sanitation Program, Centers for Disease Control and Prevention.",PubMed,academic,2008,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0716,Transmission events within outbreaks of gastroenteritis determined through analysis of nucleotide sequences of the P2 domain of genogroup II noroviruses.,PubMed,academic,2008,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0717,The Vessel Sanitation Program: government partnering with the cruise ship industry to improve public health.,PubMed,academic,2007,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0718,Outbreak of respiratory infection on a cruise ship.,PubMed,academic,2007,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0719,Significant injury in cruise ship passengers a case series.,PubMed,academic,2007,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0720,Injury and illness aboard an Antarctic cruise ship.,PubMed,academic,2007,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0721,Inactivation of Norovirus by ozone gas in conditions relevant to healthcare.,PubMed,academic,2007,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0722,"Legionnaires' disease outbreak associated with a cruise liner, August 2003: epidemiological and microbiological findings.",PubMed,academic,2007,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0723,Outbreak of Legionnaires' disease on a cruise ship linked to spa-bath filter stones contaminated with Legionella pneumophila serogroup 5.,PubMed,academic,2006,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0724,"Epidemiology of gastroenteritis on cruise ships, 2001-2004.",PubMed,academic,2006,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0725,"Cruise-ship--associated Legionnaires disease, November 2003-May 2004.",PubMed,academic,2005,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0726,Outbreak of Vibrio parahaemolyticus gastroenteritis associated with Alaskan oysters.,PubMed,academic,2005,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0727,Coastal terrorism: using tabletop discussions to enhance coastal community infrastructure through relationship building.,PubMed,academic,2005,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0728,Dealing with gastrointestinal illness on a cruise ship--Part 1: Description of sanitation measures. Part 2: An isolation study.,PubMed,academic,2004,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0729,A burn mass casualty event due to boiler room explosion on a cruise ship: preparedness and outcomes.,PubMed,academic,2005,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0730,Bound for Sydney town: health surveillance on international cruise vessels visiting the Port of Sydney.,PubMed,academic,2005,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0731,Focus on cruise ship travel.,PubMed,academic,2004,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0732,Norovirus transmission on cruise ship.,PubMed,academic,2005,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0733,Genetic diversity among sapoviruses.,PubMed,academic,2004,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0734,Severe Legionella pneumophila pneumonia associated with the public bath on a cruise ship in Japan.,PubMed,academic,2004,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0735,Molecular diversity of noroviruses associated with outbreaks on cruise ships: comparison with strains circulating within the UK.,PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0736,The agony and the ecstasy.,PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0737,Outbreak of Legionnaires' disease on a cruise ship: lessons for international surveillance and control.,PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0738,A large outbreak of influenza A and B on a cruise ship causing widespread morbidity.,PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0739,Large summertime influenza A outbreak among tourists in Alaska and the Yukon Territory.,PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0740,"Diarrheal disease on cruise ships, 1990-2000: the impact of environmental health programs.",PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0741,Maritime health: a case for preventing influenza on the high seas.,PubMed,academic,2002,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0742,Watching the Games: public health surveillance for the Sydney 2000 Olympic Games.,PubMed,academic,2003,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0743,Cancer at sea: a case-control study among male Finnish seafarers.,PubMed,academic,2002,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0744,"Influenza B virus outbreak on a cruise ship--Northern Europe, 2000.",PubMed,academic,2001,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0745,"From the Centers for Disease Control and Prevention. Influenza B virus outbreak in a cruise ship--Northern Europe, 2000.",PubMed,academic,2001,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0746,Onshore catering increases the risk of diarrhoeal illness amongst cruise ship passengers.,PubMed,academic,2001,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0747,Cabin location and the likelihood of motion sickness in cruise ship passengers.,PubMed,academic,2000,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0748,Cruise ships: high-risk passengers and the global spread of new influenza viruses.,PubMed,academic,2000,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0749,Presumptive summer influenza A: an outbreak on a trans-Tasman cruise.,PubMed,academic,2000,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0750,Influenza activity in England and Wales: October 1998 to June 1999.,PubMed,academic,1999,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0751,Influenza on a cruise ship in the Mediterranean.,PubMed,academic,1999,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0752,Legionnaires' disease on a cruise ship linked to the water supply system: clinical and public health implications.,PubMed,academic,1999,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0753,Descriptive epidemiology of injury and illness among cruise ship passengers.,PubMed,academic,1999,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0754,Legionella on board a cruise ship.,PubMed,academic,1998,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0755,An outbreak of viral gastroenteritis on board a cruise liner.,PubMed,academic,1998,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0756,Influenza A outbreak on a cruise ship.,PubMed,academic,1998,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0757,An outbreak of Brainerd diarrhea among travelers to the Galapagos Islands.,PubMed,academic,1998,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0758,"Rubella among crew members of commercial cruise ships--Florida, 1997.",PubMed,academic,1998,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0759,"Update: influenza activity -- United States, 1997-98 season.",PubMed,academic,1997,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0760,"Update: outbreaks of cyclosporiasis -- United States and Canada, 1997.",PubMed,academic,1997,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0761,Entertainer wins settlement for denial of job on cruise ship.,PubMed,academic,1997,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0762,Shigellosis on an Italian cruise ship.,PubMed,academic,1996,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0763,An outbreak of viral gastroenteritis on a cruise ship.,PubMed,academic,1996,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0764,Perspectives in fatal epidemics.,PubMed,academic,1996,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0765,Crisis support following the Herald of Free-Enterprise disaster: a longitudinal perspective.,PubMed,academic,1996,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+SR-0766,Colonic epithelial lymphocytosis associated with an epidemic of chronic diarrhea.,PubMed,academic,1996,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0767,"Reported cholera in the United States, 1992-1994: a reflection of global changes in cholera epidemiology.",PubMed,academic,,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0768,Prevalence of shigellosis in the U.S.: consistency with dose-response information.,PubMed,academic,1996,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0769,Outbreak of Legionnaires' disease among cruise ship passengers exposed to a contaminated whirlpool spa.,PubMed,academic,1996,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0770,"Epidemiology of diarrheal disease outbreaks on cruise ships, 1986 through 1993.",PubMed,academic,1996,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0771,Vibrio cholerae O139 Bengal infections among tourists to Southeast Asia: an intercontinental foodborne outbreak.,PubMed,academic,1995,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0772,From the Centers for Disease Control and Prevention. Outbreak of Shigella flexneri 2a infections on a cruise ship.,PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0773,"From the Centers for Disease Control and Prevention. Update: outbreak of Legionnaires' Disease associated with a cruise ship, 1994.",PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0774,Outbreak of Shigella flexneri 2a infections on a cruise ship.,PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0775,"Update: outbreak of Legionnaires' disease associated with a cruise ship, 1994.",PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0776,"From the Centers for Disease Control and Prevention. Outbreak of pneumonia associated with a cruise ship, 1994.",PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0777,"Outbreak of pneumonia associated with a cruise ship, 1994.",PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0778,Characterization of a variant strain of Norwalk virus from a food-borne outbreak of gastroenteritis on a cruise ship in Hawaii.,PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0779,Norwalk virus-associated gastroenteritis traced to ice consumption aboard a cruise ship in Hawaii: comparison and application of molecular method-based assays.,PubMed,academic,1994,title_abstract,pending_full_text_review,,Passes title/abstract screen; requires full-text review
+SR-0780,Causal attributions and post-traumatic stress in adolescents.,PubMed,academic,1993,title_abstract,exclude,not_relevant_to_cruise_outbreak,Does not meet vessel + disease keyword criteria
+EVT-EXC-001,SMV Freewinds - Measles (2019),Grey literature (other),grey_literature,2019,full_text,exclude,not_outbreak (single confirmed case without official outbreak designation),"Single measles case on SMV Freewinds, Curacao, 2019"

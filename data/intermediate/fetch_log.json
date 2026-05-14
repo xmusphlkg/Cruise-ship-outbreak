@@ -1,0 +1,17 @@
+{
+  "run_time": "2026-05-14T14:52:26.387181",
+  "cdc_vsp_events_scraped": 423,
+  "pubmed_articles_fetched": 357,
+  "pubmed_likely_relevant": 304,
+  "search_records_total": 780,
+  "screening_decisions_total": 781,
+  "existing_dataset_events": 472,
+  "pubmed_query": "(\"cruise ship\" OR \"cruise liner\" OR \"passenger vessel\" OR \"expedition cruise\" OR \"cruise vessel\") AND (outbreak OR infection OR gastroenteritis OR norovirus OR \"respiratory illness\" OR influenza OR COVID-19 OR legionella OR Legionnaires OR measles OR varicella OR foodborne OR waterborne OR hantavirus OR \"communicable disease\" OR cluster)",
+  "pubmed_date_range": "1993/01/01 – 2026/05/14",
+  "cdc_urls": {
+    "current_2026": "https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html",
+    "earlier_2023_2025": "https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks.html",
+    "archive_2019_2022": "https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html",
+    "archive_1993_2018": "https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html"
+  }
+}
