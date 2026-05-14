@@ -1,10 +1,10 @@
 Data field,Events with data available,Events with missing data
-Outbreak year,363 (100·0%),0
-Transmission route,362 (99·7%),1 (0·3%)
-Public health response,356 (98·1%),7 (1·9%)
-Deaths,354 (97·5%),9 (2·5%)
-Outbreak duration,340 (93·7%),23 (6·3%)
-Pathogen identified,317 (87·3%),46 (12·7%)
-Cases (passengers),317 (87·3%),46 (12·7%)
-Cases (crew),309 (85·1%),54 (14·9%)
-Hospitalisations,9 (2·5%),354 (97·5%)
+Outbreak year,472 (100·0%),0
+Transmission route,472 (100·0%),0
+Public health response,466 (98·7%),6 (1·3%)
+Deaths,356 (75·4%),116 (24·6%)
+Outbreak duration,369 (78·2%),103 (21·8%)
+Pathogen identified,393 (83·3%),79 (16·7%)
+Cases (passengers),319 (67·6%),153 (32·4%)
+Cases (crew),311 (65·9%),161 (34·1%)
+Hospitalisations,9 (1·9%),463 (98·1%)
