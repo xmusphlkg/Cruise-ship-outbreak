@@ -11,16 +11,10 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
 OUTPUT_DIR = REPO_ROOT / "output"
 
-# Six CDC VSP legacy records were dropped from the final 363-event analysis
-# because they were carried over from an earlier dataset version.
-EXCLUDED_EVENT_IDS = {
-    "EVT-028",
-    "EVT-029",
-    "EVT-030",
-    "EVT-040",
-    "EVT-043",
-    "EVT-044",
-}
+# Legacy exclusion list removed — these six records with incorrect DOIs
+# (EVT-028, EVT-029, EVT-030, EVT-040, EVT-043, EVT-044) were deleted
+# from the source CSV as their data could not be verified from primary sources.
+EXCLUDED_EVENT_IDS: set[str] = set()
 
 CSV_FIELD_ORDER = [
     "event_id",

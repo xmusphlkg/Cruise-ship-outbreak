@@ -48,13 +48,14 @@ df <- read_csv(data_path, show_col_types = FALSE) %>%
           outbreak_year = as.integer(outbreak_year),
           pathogen_label = recode(pathogen_category, !!!cat_map),
           period = case_when(
-               outbreak_year <= 2019 ~ "1993-2019",
-               outbreak_year <= 2022 ~ "2020-2022",
-               TRUE ~ "2023-2026"
+               outbreak_year <= 2009 ~ "1993\u20132009",
+               outbreak_year <= 2019 ~ "2010\u20132019",
+               outbreak_year <= 2022 ~ "2020\u20132022",
+               TRUE ~ "2023\u20132026"
           )
      )
 
-period_levels <- c("1993-2019", "2020-2022", "2023-2026")
+period_levels <- c("1993\u20132009", "2010\u20132019", "2020\u20132022", "2023\u20132026")
 df$period <- factor(df$period, levels = period_levels)
 df$pathogen_label <- factor(df$pathogen_label, levels = pathogen_levels)
 
@@ -71,12 +72,12 @@ period_counts <- df %>%
 # panel A -----------------------------------------------------------------
 
 plot_a <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_label)) +
-     geom_col(width = 0.68, colour = "white", linewidth = 0.3) +
+     geom_col(width = 0.65, colour = "white", linewidth = 0.3) +
      geom_text(
           data = period_summary %>% filter(prop >= 0.08),
           aes(label = percent(prop, accuracy = 1)),
           colour = "white",
-          size = 3.6,
+          size = 3.2,
           fontface = "bold",
           position = position_stack(vjust = 0.5)
      ) +
@@ -84,7 +85,7 @@ plot_a <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_label
           data = period_counts,
           aes(x = period, y = 1.045, label = paste0("n=", n)),
           inherit.aes = FALSE,
-          size = 3.5,
+          size = 3.2,
           fontface = "bold",
           colour = "grey20"
      ) +
@@ -161,5 +162,5 @@ plot_b <- ggplot(source_summary, aes(x = source_display, y = pathogen_display, f
 figure <- plot_a + plot_b +
      plot_annotation(tag_levels = "A", theme = theme(plot.tag = element_text(size = 20, face = "bold")))
 
-ggsave(file.path(output_dir, "figure1.pdf"), figure, width = 10, height = 6.8, device = cairo_pdf)
-ggsave(file.path(output_dir, "figure1.png"), figure, width = 10, height = 6.8, dpi = 300)
+ggsave(file.path(output_dir, "figure1.pdf"), figure, width = 11, height = 6.8, device = cairo_pdf)
+ggsave(file.path(output_dir, "figure1.png"), figure, width = 11, height = 6.8, dpi = 300)
