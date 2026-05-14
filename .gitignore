@@ -1,0 +1,13 @@
+# Manuscript drafts and submission files are not tracked in this repository.
+manuscript/
+
+# Python cache files.
+__pycache__/
+*.py[cod]
+
+# R session files.
+.Rhistory
+.RData
+
+# OS-specific files.
+.DS_Store
