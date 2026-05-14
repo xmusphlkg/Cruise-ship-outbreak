@@ -65,7 +65,7 @@ plot_a <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_label
   ) +
   scale_y_continuous(labels = percent_format(accuracy = 1), expand = expansion(mult = c(0, 0.03))) +
   scale_fill_manual(values = palette) +
-  labs(x = NULL, y = "Proportion of outbreak events", fill = NULL) +
+  labs(x = NULL, y = "Proportion of outbreak events", fill = NULL, title = 'A') +
   theme_minimal(base_size = 15) +
   theme(
     axis.text.x = element_text(face = "bold", size = 16),
@@ -73,7 +73,8 @@ plot_a <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_label
     legend.position = "bottom",
     panel.grid.major.x = element_blank(),
     plot.margin = margin(5, 5, 5, 5)
-  )
+  )+
+     guides(fill = guide_legend(ncol = 3, byrow = TRUE, title.position = "top", title.hjust = 0.5))
 
 source_summary <- df %>%
   filter(data_source_category %in% c("official_public_health", "academic")) %>%
@@ -107,7 +108,7 @@ plot_b <- ggplot(diff_df, aes(y = pathogen_label_rev, x = diff * 100, colour = d
     breaks = seq(-60, 80, 20),
     labels = function(x) paste0(ifelse(x > 0, "+", ""), x, "pp")
   ) +
-  labs(x = "Difference in proportion (percentage points)\nOfficial PH - Academic", y = NULL, colour = NULL) +
+  labs(x = "Difference in proportion (percentage points)\nOfficial PH - Academic", y = NULL, title = 'B', colour = NULL) +
   theme_minimal(base_size = 15) +
   theme(
     legend.position = "bottom",
@@ -119,12 +120,7 @@ plot_b <- ggplot(diff_df, aes(y = pathogen_label_rev, x = diff * 100, colour = d
     plot.margin = margin(5, 5, 5, 5)
   )
 
-panel_a <- plot_a + annotate("text", x = 0.1, y = 1.03, label = "A", size = 8, fontface = "bold") +
-  theme(plot.margin = margin(5, 10, 5, 5))
-panel_b <- plot_b + annotate("text", x = -58, y = 7.5, label = "B", size = 8, fontface = "bold") +
-  theme(plot.margin = margin(5, 5, 5, 10))
-
-figure <- panel_a + panel_b + plot_layout(widths = c(1.05, 1.25), guides = "collect") &
+figure <- plot_a + plot_b + plot_layout(widths = c(1.05, 1.25)) &
   theme(legend.position = "bottom")
 
 ggsave(file.path(output_dir, "figure1.pdf"), figure, width = 15, height = 7.2, device = cairo_pdf)
