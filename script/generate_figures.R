@@ -98,30 +98,28 @@ plot_a <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_label
      guides(fill = guide_legend(ncol = 3, byrow = TRUE, title.position = "top"))
 
 source_levels <- c(
-     "official_public_health",
-     "academic",
-     "other"
+     "cdc_vsp",
+     "non_vsp"
 )
 
 source_labels <- c(
-     official_public_health = "CDC VSP\nlogs",
-     academic = "Academic\npublications",
-     other = "Grey\nliterature"
+     cdc_vsp = "CDC VSP\narchive entries",
+     non_vsp = "Non-VSP\nsources"
 )
 
 source_summary <- df %>%
      mutate(
           source_group = case_when(
-               data_source_category == "official_public_health" ~ "official_public_health",
-               data_source_category == "academic" ~ "academic",
-               TRUE ~ "other"
-          )
+               data_source_category == "official_public_health" &
+                    (is.na(data_source_reference) | data_source_reference == "NR" | startsWith(data_source_reference, "CDC VSP")) ~ "cdc_vsp",
+               TRUE ~ "non_vsp"
+           )
      ) %>%
      count(source_group, pathogen_label, name = "n") %>%
      group_by(source_group) %>%
      mutate(prop = n / sum(n)) %>%
      ungroup() %>%
-     complete(source_group, pathogen_label, fill = list(n = 0, prop = 0)) %>%
+     complete(source_group = source_levels, pathogen_label, fill = list(n = 0, prop = 0)) %>%
      mutate(
           source_group = factor(source_group, levels = source_levels),
           source_display = factor(recode(source_group, !!!source_labels), levels = unname(source_labels)),

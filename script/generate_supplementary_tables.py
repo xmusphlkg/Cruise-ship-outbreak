@@ -14,9 +14,9 @@ FULL_DATASET_FILENAME = "table_s_full_dataset.csv"
 SUPPLEMENTARY_TABLE_DIRNAME = "supplementary_tables"
 
 SOURCE_LABELS = {
-    "official_public_health": "CDC VSP public outbreak logs",
-    "academic": "Peer-reviewed academic publications",
-    "grey_literature": "Grey literature/other reports",
+    "cdc_vsp": "CDC VSP archive entries",
+    "additional_official": "Events identified from additional official public-health reports",
+    "academic": "Events identified from peer-reviewed academic publications",
 }
 
 PATHOGEN_LABELS = {
@@ -39,7 +39,7 @@ PATHOGEN_ORDER = [
     "zoonotic",
 ]
 
-SOURCE_ORDER = ["official_public_health", "academic", "grey_literature"]
+SOURCE_ORDER = ["cdc_vsp", "additional_official", "academic"]
 
 PERIOD_ORDER = ["1993–2009", "2010–2019", "2020–2022", "2023–2026"]
 
@@ -71,6 +71,28 @@ def parse_int(value: str) -> int | None:
         return None
 
 
+def is_cdc_vsp_record(row: dict[str, str]) -> bool:
+    """Return True for CDC VSP archive entries and other VSP-derived logs."""
+    ref = (row.get("data_source_reference") or "").strip()
+    return row.get("data_source_category") == "official_public_health" and (
+        ref == "NR" or ref.startswith("CDC VSP")
+    )
+
+
+def is_additional_official_record(row: dict[str, str]) -> bool:
+    """Return True for non-VSP official public-health reports."""
+    return row.get("data_source_category") == "official_public_health" and not is_cdc_vsp_record(row)
+
+
+def source_group_for_s1(row: dict[str, str]) -> str:
+    """Map each row to the mutually exclusive source tiers used in Table S1."""
+    if is_cdc_vsp_record(row):
+        return "cdc_vsp"
+    if is_additional_official_record(row):
+        return "additional_official"
+    return "academic"
+
+
 def is_reported(value: str) -> bool:
     return (value or "").strip() not in {"", "NR"}
 
@@ -84,8 +106,8 @@ def output_paths(output_dir: Path) -> tuple[Path, Path]:
 
 
 def build_table_s1(rows: list[dict[str, str]]) -> list[dict[str, str]]:
-    source_totals = Counter(row["data_source_category"] for row in rows)
-    pathogen_counts = Counter((row["data_source_category"], row["pathogen_category"]) for row in rows)
+    source_totals = Counter(source_group_for_s1(row) for row in rows)
+    pathogen_counts = Counter((source_group_for_s1(row), row["pathogen_category"]) for row in rows)
 
     table_rows: list[dict[str, str]] = []
     for pathogen_code in PATHOGEN_ORDER:
@@ -224,8 +246,9 @@ def build_sensitivity_row(label: str, rows: list[dict[str, str]], note: str) -> 
 def build_table_s6(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     primary = rows
     excluding_crew_in_port = [row for row in rows if row["event_id"] not in CREW_IN_PORT_EVENT_IDS]
-    vsp_only = [row for row in rows if row["data_source_category"] == "official_public_health"]
-    non_vsp = [row for row in rows if row["data_source_category"] != "official_public_health"]
+    official_public_health = [row for row in rows if row["data_source_category"] == "official_public_health"]
+    cdc_vsp_only = [row for row in rows if is_cdc_vsp_record(row)]
+    non_vsp = [row for row in rows if not is_cdc_vsp_record(row)]
     academic_only = [row for row in rows if row["data_source_category"] == "academic"]
 
     return [
@@ -240,19 +263,24 @@ def build_table_s6(rows: list[dict[str, str]]) -> list[dict[str, str]]:
             "These three docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; conclusions were unchanged.",
         ),
         build_sensitivity_row(
+            "CDC VSP archive entries + events identified from additional official public-health reports",
+            official_public_health,
+            "The combined CDC VSP archive entries + events identified from additional official public-health reports set is dominated by viral gastroenteritis and includes 430 CDC VSP archive entries plus six events identified from additional official public-health reports.",
+        ),
+        build_sensitivity_row(
             "CDC VSP-only",
-            vsp_only,
-            "The VSP subset contains no respiratory viral outbreaks.",
+            cdc_vsp_only,
+            "The CDC VSP archive subset contains no respiratory viral outbreaks.",
         ),
         build_sensitivity_row(
-            "Non-VSP only",
+            "Non-VSP sources",
             non_vsp,
-            "Once VSP records are removed, respiratory viral events dominate the remaining public record.",
+            "This subset combines six events identified from additional official public-health reports and 43 events identified from peer-reviewed academic publications; respiratory viral events dominate the remaining non-VSP record.",
         ),
         build_sensitivity_row(
-            "Academic publications only",
+            "Events identified from peer-reviewed academic publications only",
             academic_only,
-            "The academic subset is dominated by respiratory viral outbreaks, consistent with publication bias toward novel or severe pathogens.",
+            "The event subset identified from peer-reviewed academic publications is dominated by respiratory viral events, consistent with publication bias toward novel or severe pathogens.",
         ),
     ]
 

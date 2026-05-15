@@ -89,33 +89,93 @@ plot_s1 <- ggplot(df, aes(x = outbreak_year, fill = pathogen_label)) +
      guides(fill = guide_legend(ncol = 3, byrow = TRUE, title.position = "top"))
 
 # Figure S2: PRISMA flow --------------------------------------------------
+# This diagram shows the complete event identification flow from all sources,
+# converging to the final 479-event dataset.
 
 plot_s2 <- ggplot() +
-     xlim(0, 10) + ylim(0, 10) +
+     xlim(0, 12) + ylim(0, 14) +
      theme_void() +
-     annotate("rect", xmin = 1.0, xmax = 5.3, ymin = 7.8, ymax = 9.0, fill = "white", colour = "grey60", linewidth = 0.8) +
-     annotate("rect", xmin = 1.0, xmax = 5.3, ymin = 5.7, ymax = 6.9, fill = "white", colour = "grey60", linewidth = 0.8) +
-     annotate("rect", xmin = 1.0, xmax = 5.3, ymin = 3.6, ymax = 4.8, fill = "white", colour = "grey60", linewidth = 0.8) +
-     annotate("rect", xmin = 1.0, xmax = 5.3, ymin = 1.5, ymax = 2.7, fill = "white", colour = "grey60", linewidth = 0.8) +
-     annotate("rect", xmin = 5.3, xmax = 9.1, ymin = 5.7, ymax = 6.9, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
-     annotate("rect", xmin = 5.3, xmax = 9.1, ymin = 3.6, ymax = 4.8, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
-     annotate("rect", xmin = 5.3, xmax = 9.1, ymin = 1.5, ymax = 2.7, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
-     annotate("rect", xmin = 1.0, xmax = 5.3, ymin = 0.3, ymax = 1.3, fill = "#E9F4E5", colour = "#2F8F2F", linewidth = 0.8) +
-     annotate("text", x = 3.15, y = 8.35, label = "Records identified\n(n = 357)", size = 4.2) +
-     annotate("text", x = 3.15, y = 6.25, label = "After deduplication\n(n = 357)", size = 4.2) +
-     annotate("text", x = 3.15, y = 4.15, label = "Records screened\n(n = 357)", size = 4.2) +
-     annotate("text", x = 3.15, y = 2.05, label = "Full-text assessed\n(n = 191)", size = 4.2) +
-     annotate("text", x = 3.15, y = 0.82, label = "Unique outbreak events captured\n(n = 43)", size = 4.0, fontface = "bold") +
-     annotate("text", x = 7.2, y = 6.25, label = "Duplicates removed\n(n = 0)", size = 3.8) +
-     annotate("text", x = 7.2, y = 4.15, label = "Excluded at title/abstract\n(n = 166)", size = 3.8) +
-     annotate("text", x = 7.2, y = 2.05, label = "Deduplicated against\nVSP/grey sources (n = 148)", size = 3.8) +
-     annotate("segment", x = 3.15, xend = 3.15, y = 7.8, yend = 6.9, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
-     annotate("segment", x = 3.15, xend = 3.15, y = 5.7, yend = 4.8, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
-     annotate("segment", x = 3.15, xend = 3.15, y = 3.6, yend = 2.7, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
-     annotate("segment", x = 3.15, xend = 3.15, y = 1.5, yend = 1.3, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
-     annotate("segment", x = 5.3, xend = 5.0, y = 6.3, yend = 6.3, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
-     annotate("segment", x = 5.3, xend = 5.0, y = 4.2, yend = 4.2, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
-     annotate("segment", x = 5.3, xend = 5.0, y = 2.1, yend = 2.1, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1)
+
+     # ---- IDENTIFICATION (top row: two source streams) ----
+     # Left stream: CDC VSP archive entries + additional official public-health reports
+     annotate("rect", xmin = 0.5, xmax = 4.5, ymin = 12.2, ymax = 13.5, fill = "#E8F0FE", colour = "#3366CC", linewidth = 0.8) +
+     annotate("text", x = 2.5, y = 12.85, label = "CDC VSP archive entries +\nadditional official\npublic-health reports\n(n = 436 events)", size = 3.3, lineheight = 0.9) +
+
+     # Right stream: Academic databases + other sources
+     annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 12.2, ymax = 13.5, fill = "#E8F0FE", colour = "#3366CC", linewidth = 0.8) +
+     annotate("text", x = 8.5, y = 12.85, label = "PubMed, Embase, WHO DON,\nECDC reports, grey literature\n(n = 357 records from PubMed)", size = 3.6, lineheight = 0.9) +
+
+     # Section label: Identification
+     annotate("text", x = 0.15, y = 12.85, label = "I\nD\nE\nN\nT\nI\nF\nI\nC\nA\nT\nI\nO\nN", size = 2.2, fontface = "bold", colour = "grey50", hjust = 0, lineheight = 0.6) +
+
+     # ---- SCREENING (right stream only) ----
+     # Screening box
+     annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 10.0, ymax = 11.3, fill = "white", colour = "grey60", linewidth = 0.8) +
+     annotate("text", x = 8.5, y = 10.65, label = "Title/abstract screening\n(n = 357)", size = 3.8, lineheight = 0.9) +
+
+     # Excluded at screening
+     annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 8.5, ymax = 9.5, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
+     annotate("text", x = 8.5, y = 9.0, label = "Excluded at title/abstract (n = 166)\nE1 Review/meta-analysis (16)  E2 Modelling (23)\nE3 Methodology (11)  E4 Editorial (16)\nE5 Non-cruise vessel (3)  E6 No outbreak (35)\nE7 Single case (8)  E8 Non-infectious (15)\nE9 Not relevant (39)", size = 2.8, lineheight = 0.85) +
+
+     # Section label: Screening
+     annotate("text", x = 0.15, y = 10.65, label = "S\nC\nR\nE\nE\nN\nI\nN\nG", size = 2.2, fontface = "bold", colour = "grey50", hjust = 0, lineheight = 0.6) +
+
+     # ---- ELIGIBILITY ----
+     # Full-text assessed
+     annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 6.8, ymax = 8.0, fill = "white", colour = "grey60", linewidth = 0.8) +
+     annotate("text", x = 8.5, y = 7.4, label = "Full-text articles assessed for eligibility\n(n = 191)", size = 3.8, lineheight = 0.9) +
+
+     # Excluded at full-text / deduplicated
+     annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 5.3, ymax = 6.3, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
+     annotate("text", x = 8.5, y = 5.8, label = "Deduplicated against CDC VSP\nand other sources (n = 148)", size = 3.4, lineheight = 0.9) +
+
+     # Section label: Eligibility
+     annotate("text", x = 0.15, y = 7.4, label = "E\nL\nI\nG\nI\nB\nI\nL\nI\nT\nY", size = 2.2, fontface = "bold", colour = "grey50", hjust = 0, lineheight = 0.6) +
+
+     # ---- Academic events result ----
+     annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 3.8, ymax = 4.8, fill = "white", colour = "grey60", linewidth = 0.8) +
+     annotate("text", x = 8.5, y = 4.3, label = "Unique events identified from peer-reviewed\nacademic publications\n(n = 43)", size = 3.4, lineheight = 0.9) +
+
+     # ---- CDC VSP arrow down ----
+     annotate("rect", xmin = 0.5, xmax = 4.5, ymin = 3.8, ymax = 4.8, fill = "white", colour = "grey60", linewidth = 0.8) +
+     annotate("text", x = 2.5, y = 4.3, label = "CDC VSP archive entries +\nadditional official reports after\nquality review (n = 436)", size = 3.5, lineheight = 0.9) +
+
+     # ---- INCLUSION (final merged dataset) ----
+     annotate("rect", xmin = 1.5, xmax = 10.5, ymin = 1.8, ymax = 3.2, fill = "#E9F4E5", colour = "#2F8F2F", linewidth = 1.0) +
+     annotate("text", x = 6.0, y = 2.5, label = "Final reported-event dataset\n(N = 479 outbreak events)", size = 4.5, fontface = "bold", lineheight = 0.9) +
+
+     # Section label: Inclusion
+     annotate("text", x = 0.15, y = 2.5, label = "I\nN\nC\nL\nU\nD\nE\nD", size = 2.2, fontface = "bold", colour = "grey50", hjust = 0, lineheight = 0.6) +
+
+     # ---- Breakdown annotation ----
+     annotate("rect", xmin = 1.5, xmax = 10.5, ymin = 0.5, ymax = 1.5, fill = "grey97", colour = "grey70", linewidth = 0.5, linetype = "dashed") +
+     annotate("text", x = 6.0, y = 1.0, label = "CDC VSP archive entries + additional official reports: 436 (91.0%)\nEvents identified from peer-reviewed academic publications: 43 (9.0%)", size = 3.05, lineheight = 0.95) +
+
+     # ---- ARROWS ----
+     # CDC VSP archive entries + additional official public-health reports: top box down to quality review
+     annotate("segment", x = 2.5, xend = 2.5, y = 12.2, yend = 4.8, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
+
+     # Academic: top box down to screening
+     annotate("segment", x = 8.5, xend = 8.5, y = 12.2, yend = 11.3, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
+
+     # Screening to full-text
+     annotate("segment", x = 8.5, xend = 8.5, y = 10.0, yend = 8.0, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
+
+     # Full-text to academic events
+     annotate("segment", x = 8.5, xend = 8.5, y = 6.8, yend = 4.8, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
+
+     # Exclusion arrows (horizontal from main flow to exclusion boxes)
+     annotate("segment", x = 8.5, xend = 8.5, y = 10.0, yend = 9.5, colour = "#F97306", linewidth = 0.6, linetype = "solid") +
+     annotate("segment", x = 8.5, xend = 8.5, y = 6.8, yend = 6.3, colour = "#F97306", linewidth = 0.6, linetype = "solid") +
+
+     # CDC VSP archive entries + additional official public-health reports to final
+     annotate("segment", x = 2.5, xend = 2.5, y = 3.8, yend = 3.2, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
+
+     # Academic to final
+     annotate("segment", x = 8.5, xend = 8.5, y = 3.8, yend = 3.2, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
+
+     # Final to breakdown
+     annotate("segment", x = 6.0, xend = 6.0, y = 1.8, yend = 1.5, arrow = arrow(length = unit(0.08, "inches")), colour = "grey40", linewidth = 0.6)
 
 # Figure S3: Quality distribution -----------------------------------------
 
