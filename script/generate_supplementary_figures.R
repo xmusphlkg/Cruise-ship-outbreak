@@ -101,14 +101,14 @@ plot_s2 <- ggplot() +
      annotate("rect", xmin = 5.3, xmax = 9.1, ymin = 3.6, ymax = 4.8, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
      annotate("rect", xmin = 5.3, xmax = 9.1, ymin = 1.5, ymax = 2.7, fill = "#FDF3E6", colour = "#F97306", linewidth = 0.8) +
      annotate("rect", xmin = 1.0, xmax = 5.3, ymin = 0.3, ymax = 1.3, fill = "#E9F4E5", colour = "#2F8F2F", linewidth = 0.8) +
-     annotate("text", x = 3.15, y = 8.35, label = "Records identified\n(n = 364)", size = 4.2) +
-     annotate("text", x = 3.15, y = 6.25, label = "After deduplication\n(n = 364)", size = 4.2) +
-     annotate("text", x = 3.15, y = 4.15, label = "Records screened\n(n = 364)", size = 4.2) +
-     annotate("text", x = 3.15, y = 2.05, label = "Full-text assessed\n(n = 364)", size = 4.2) +
-     annotate("text", x = 3.15, y = 0.82, label = "Infectious outbreak events included\n(n = 363)", size = 4.0, fontface = "bold") +
+     annotate("text", x = 3.15, y = 8.35, label = "Records identified\n(n = 357)", size = 4.2) +
+     annotate("text", x = 3.15, y = 6.25, label = "After deduplication\n(n = 357)", size = 4.2) +
+     annotate("text", x = 3.15, y = 4.15, label = "Records screened\n(n = 357)", size = 4.2) +
+     annotate("text", x = 3.15, y = 2.05, label = "Full-text assessed\n(n = 191)", size = 4.2) +
+     annotate("text", x = 3.15, y = 0.82, label = "Unique outbreak events captured\n(n = 43)", size = 4.0, fontface = "bold") +
      annotate("text", x = 7.2, y = 6.25, label = "Duplicates removed\n(n = 0)", size = 3.8) +
-     annotate("text", x = 7.2, y = 4.15, label = "Excluded at title/abstract\n(n = 0)", size = 3.8) +
-     annotate("text", x = 7.2, y = 2.05, label = "Excluded at full-text\n(n = 1)", size = 3.8) +
+     annotate("text", x = 7.2, y = 4.15, label = "Excluded at title/abstract\n(n = 166)", size = 3.8) +
+     annotate("text", x = 7.2, y = 2.05, label = "Deduplicated against\nVSP/grey sources (n = 148)", size = 3.8) +
      annotate("segment", x = 3.15, xend = 3.15, y = 7.8, yend = 6.9, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
      annotate("segment", x = 3.15, xend = 3.15, y = 5.7, yend = 4.8, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +
      annotate("segment", x = 3.15, xend = 3.15, y = 3.6, yend = 2.7, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 1) +

@@ -48,14 +48,14 @@ df <- read_csv(data_path, show_col_types = FALSE) %>%
           outbreak_year = as.integer(outbreak_year),
           pathogen_label = recode(pathogen_category, !!!cat_map),
           period = case_when(
-               outbreak_year <= 2009 ~ "1993\u20132009",
-               outbreak_year <= 2019 ~ "2010\u20132019",
-               outbreak_year <= 2022 ~ "2020\u20132022",
-               TRUE ~ "2023\u20132026"
+               outbreak_year <= 2009 ~ "1993-2009",
+               outbreak_year <= 2019 ~ "2010-2019",
+               outbreak_year <= 2022 ~ "2020-2022",
+               TRUE ~ "2023-2026"
           )
      )
 
-period_levels <- c("1993\u20132009", "2010\u20132019", "2020\u20132022", "2023\u20132026")
+period_levels <- c("1993-2009", "2010-2019", "2020-2022", "2023-2026")
 df$period <- factor(df$period, levels = period_levels)
 df$pathogen_label <- factor(df$pathogen_label, levels = pathogen_levels)
 

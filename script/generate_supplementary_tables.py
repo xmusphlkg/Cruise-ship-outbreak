@@ -9,7 +9,7 @@ from pathlib import Path
 
 from analysis_common import CSV_FIELD_ORDER, OUTPUT_DIR, load_outbreak_csv_rows, write_csv
 
-TOTAL_EVENT_COUNT = 472
+TOTAL_EVENT_COUNT = 479
 FULL_DATASET_FILENAME = "table_s_full_dataset.csv"
 SUPPLEMENTARY_TABLE_DIRNAME = "supplementary_tables"
 
@@ -41,7 +41,7 @@ PATHOGEN_ORDER = [
 
 SOURCE_ORDER = ["official_public_health", "academic", "grey_literature"]
 
-PERIOD_ORDER = ["1993\u20132009", "2010\u20132019", "2020\u20132022", "2023\u20132026"]
+PERIOD_ORDER = ["1993–2009", "2010–2019", "2020–2022", "2023–2026"]
 
 CREW_IN_PORT_EVENT_IDS = {"EVT-200", "EVT-201", "EVT-206", "EVT-209"}
 
@@ -121,10 +121,10 @@ def build_table_s2(rows: list[dict[str, str]]) -> list[dict[str, str]]:
 
 def build_table_s3(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     period_map = {
-        "1993\u20132009": lambda year: year <= 2009,
-        "2010\u20132019": lambda year: 2010 <= year <= 2019,
-        "2020\u20132022": lambda year: 2020 <= year <= 2022,
-        "2023\u20132026": lambda year: year >= 2023,
+        "1993–2009": lambda year: year <= 2009,
+        "2010–2019": lambda year: 2010 <= year <= 2019,
+        "2020–2022": lambda year: 2020 <= year <= 2022,
+        "2023–2026": lambda year: year >= 2023,
     }
     period_totals = Counter()
     counts = Counter()

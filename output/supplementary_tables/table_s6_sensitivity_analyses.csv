@@ -1,6 +1,6 @@
 Analysis,Events,Viral gastroenteritis,Unknown aetiology,Bacterial/protozoal gastrointestinal pathogens,Respiratory viral,Legionella spp.,Vaccine-preventable infections,Zoonotic infection,Note
-Primary analysis,472,321 (68·0%),79 (16·7%),38 (8·1%),24 (5·1%),5 (1·1%),4 (0·8%),1 (0·2%),Viral gastroenteritis remains the dominant category in the full reported-event dataset.
-Excluding 2020-22 crew-in-port events,468,321 (68·6%),79 (16·9%),38 (8·1%),20 (4·3%),5 (1·1%),4 (0·9%),1 (0·2%),These three docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; conclusions were unchanged.
-CDC VSP-only,437,315 (72·1%),79 (18·1%),36 (8·2%),0,4 (0·9%),2 (0·5%),1 (0·2%),The VSP subset contains no respiratory viral outbreaks.
-Non-VSP only,35,6 (17·1%),0,2 (5·7%),24 (68·6%),1 (2·9%),2 (5·7%),0,"Once VSP records are removed, respiratory viral events dominate the remaining public record."
-Academic publications only,35,6 (17·1%),0,2 (5·7%),24 (68·6%),1 (2·9%),2 (5·7%),0,"The academic subset is dominated by respiratory viral outbreaks, consistent with publication bias toward novel or severe pathogens."
+Primary analysis,479,321 (67·0%),79 (16·5%),38 (7·9%),28 (5·8%),5 (1·0%),7 (1·5%),1 (0·2%),Viral gastroenteritis remains the dominant category in the full reported-event dataset.
+Excluding 2020-22 crew-in-port events,475,321 (67·6%),79 (16·6%),38 (8·0%),24 (5·1%),5 (1·1%),7 (1·5%),1 (0·2%),These three docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; conclusions were unchanged.
+CDC VSP-only,436,315 (72·2%),79 (18·1%),36 (8·3%),0,3 (0·7%),2 (0·5%),1 (0·2%),The VSP subset contains no respiratory viral outbreaks.
+Non-VSP only,43,6 (14·0%),0,2 (4·7%),28 (65·1%),2 (4·7%),5 (11·6%),0,"Once VSP records are removed, respiratory viral events dominate the remaining public record."
+Academic publications only,43,6 (14·0%),0,2 (4·7%),28 (65·1%),2 (4·7%),5 (11·6%),0,"The academic subset is dominated by respiratory viral outbreaks, consistent with publication bias toward novel or severe pathogens."
