@@ -103,7 +103,7 @@ plot_s2 <- ggplot() +
 
      # Right stream: Academic databases + other sources
      annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 12.2, ymax = 13.5, fill = "#E8F0FE", colour = "#3366CC", linewidth = 0.8) +
-     annotate("text", x = 8.5, y = 12.85, label = "PubMed, Embase, WHO DON,\nECDC reports, grey literature\n(n = 357 records from PubMed)", size = 3.6, lineheight = 0.9) +
+     annotate("text", x = 8.5, y = 12.85, label = "PubMed, WHO DON,\nECDC reports, grey literature\n(n = 357 records from PubMed)", size = 3.6, lineheight = 0.9) +
 
      # Section label: Identification
      annotate("text", x = 0.15, y = 12.85, label = "I\nD\nE\nN\nT\nI\nF\nI\nC\nA\nT\nI\nO\nN", size = 2.2, fontface = "bold", colour = "grey50", hjust = 0, lineheight = 0.6) +

@@ -74,8 +74,7 @@ period_counts <- df %>%
 plot_a <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_label)) +
      geom_col(width = 0.65, colour = "white", linewidth = 0.3) +
      geom_text(
-          data = period_summary %>% filter(prop >= 0.08),
-          aes(label = percent(prop, accuracy = 1)),
+          aes(label = ifelse(prop >= 0.08, percent(prop, accuracy = 1), "")),
           colour = "white",
           size = 3.2,
           fontface = "bold",
