@@ -260,7 +260,7 @@ def build_table_s6(rows: list[dict[str, str]]) -> list[dict[str, str]]:
         build_sensitivity_row(
             "Excluding 2020-22 crew-in-port events",
             excluding_crew_in_port,
-            "These three docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; conclusions were unchanged.",
+            "These four docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; conclusions were unchanged.",
         ),
         build_sensitivity_row(
             "CDC VSP archive entries + events identified from additional official public-health reports",
