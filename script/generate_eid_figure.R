@@ -56,7 +56,7 @@ pathogen_label_text <- c(
 
 source_tier_palette <- c(
      "CDC VSP entries" = "#1F77B4",
-     "Additional official reports" = "#2A9D8F",
+     "Non-VSP official reports" = "#2A9D8F",
      "Peer-reviewed publications" = "#B56576"
 )
 
@@ -112,7 +112,7 @@ source_tier_label <- function(category, reference) {
      case_when(
           category == "official_public_health" &
                (is.na(reference) | reference == "NR" | startsWith(reference, "CDC VSP")) ~ "CDC VSP entries",
-          category == "official_public_health" ~ "Additional official reports",
+          category == "official_public_health" ~ "Non-VSP official reports",
           category == "academic" ~ "Peer-reviewed publications",
           TRUE ~ "Other public sources"
      )
@@ -187,7 +187,7 @@ df <- read_csv(data_path, show_col_types = FALSE) %>%
 source_levels <- c("CDC VSP entries", "Non-VSP public sources")
 source_tier_levels <- c(
      "CDC VSP entries",
-     "Additional official reports",
+     "Non-VSP official reports",
      "Peer-reviewed publications"
 )
 period_levels <- c("1993-2009", "2010-2019", "2020-2022", "2023-2026")

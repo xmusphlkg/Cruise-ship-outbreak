@@ -97,9 +97,9 @@ plot_s2 <- ggplot() +
      theme_void() +
 
      # ---- IDENTIFICATION (top row: two source streams) ----
-     # Left stream: CDC VSP archive entries + additional official public-health reports
+     # Left stream: CDC VSP entries + non-VSP official public-health reports
      annotate("rect", xmin = 0.5, xmax = 4.5, ymin = 12.2, ymax = 13.5, fill = "#E8F0FE", colour = "#3366CC", linewidth = 0.8) +
-     annotate("text", x = 2.5, y = 12.85, label = "CDC VSP archive entries +\nadditional official\npublic-health reports\n(n = 436 events)", size = 3.3, lineheight = 0.9) +
+     annotate("text", x = 2.5, y = 12.85, label = "CDC VSP entries +\nnon-VSP official\npublic-health reports\n(n = 436 events)", size = 3.3, lineheight = 0.9) +
 
      # Right stream: Academic databases + other sources
      annotate("rect", xmin = 5.5, xmax = 11.5, ymin = 12.2, ymax = 13.5, fill = "#E8F0FE", colour = "#3366CC", linewidth = 0.8) +
@@ -138,7 +138,7 @@ plot_s2 <- ggplot() +
 
      # ---- CDC VSP arrow down ----
      annotate("rect", xmin = 0.5, xmax = 4.5, ymin = 3.8, ymax = 4.8, fill = "white", colour = "grey60", linewidth = 0.8) +
-     annotate("text", x = 2.5, y = 4.3, label = "CDC VSP archive entries +\nadditional official reports after\nquality review (n = 436)", size = 3.5, lineheight = 0.9) +
+     annotate("text", x = 2.5, y = 4.3, label = "CDC VSP entries +\nnon-VSP official reports after\nquality review (n = 436)", size = 3.5, lineheight = 0.9) +
 
      # ---- INCLUSION (final merged dataset) ----
      annotate("rect", xmin = 1.5, xmax = 10.5, ymin = 1.8, ymax = 3.2, fill = "#E9F4E5", colour = "#2F8F2F", linewidth = 1.0) +
@@ -149,10 +149,10 @@ plot_s2 <- ggplot() +
 
      # ---- Breakdown annotation ----
      annotate("rect", xmin = 1.5, xmax = 10.5, ymin = 0.5, ymax = 1.5, fill = "grey97", colour = "grey70", linewidth = 0.5, linetype = "dashed") +
-     annotate("text", x = 6.0, y = 1.0, label = "CDC VSP archive entries + additional official reports: 436 (91.0%)\nEvents identified from peer-reviewed academic publications: 43 (9.0%)", size = 3.05, lineheight = 0.95) +
+     annotate("text", x = 6.0, y = 1.0, label = "CDC VSP entries + non-VSP official reports: 436 (91.0%)\nEvents identified from peer-reviewed academic publications: 43 (9.0%)", size = 3.05, lineheight = 0.95) +
 
      # ---- ARROWS ----
-     # CDC VSP archive entries + additional official public-health reports: top box down to quality review
+     # CDC VSP entries + non-VSP official public-health reports: top box down to quality review
      annotate("segment", x = 2.5, xend = 2.5, y = 12.2, yend = 4.8, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
 
      # Academic: top box down to screening
@@ -168,7 +168,7 @@ plot_s2 <- ggplot() +
      annotate("segment", x = 8.5, xend = 8.5, y = 10.0, yend = 9.5, colour = "#F97306", linewidth = 0.6, linetype = "solid") +
      annotate("segment", x = 8.5, xend = 8.5, y = 6.8, yend = 6.3, colour = "#F97306", linewidth = 0.6, linetype = "solid") +
 
-     # CDC VSP archive entries + additional official public-health reports to final
+     # CDC VSP entries + non-VSP official public-health reports to final
      annotate("segment", x = 2.5, xend = 2.5, y = 3.8, yend = 3.2, arrow = arrow(length = unit(0.12, "inches")), colour = "grey40", linewidth = 0.8) +
 
      # Academic to final

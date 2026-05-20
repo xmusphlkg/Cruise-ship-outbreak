@@ -1,28 +1,80 @@
-# Cruise Ship Outbreak
+# Cruise Ship Outbreak Visibility Mapping
 
-This repository contains the code, source data, and analysis outputs for the cruise-ship outbreak project.
+This repository contains the frozen analytic dataset, source-provenance files, code, and generated outputs for the manuscript:
 
-## Contents
+Public Visibility of Passenger-Ship Infectious Disease Outbreaks, 1993-2026: A Cross-Pathogen Event-Level Mapping
 
-- `data/`: input data used for the analysis
-- `script/`: Python and R scripts for rebuilding tables and figures
-- `output/`: generated tables, figures, and summary artifacts
+## Analytic Scope
+
+- Analytic dataset freeze date: 2026-05-14.
+- MV Hondius narrative source check: 2026-05-20, using official ECDC, WHO, and CDC public updates.
+- Unit of analysis: publicly visible infectious disease outbreak event-records on ocean and expedition cruise ships.
+- Intended inference: public visibility and reporting architecture, not incidence, risk, burden, or cruise-ship safety.
+
+## Repository Contents
+
+- `data/outbreak_events.csv`: frozen curated event-level analytic dataset.
+- `data/search_records.csv`: source-provenance records from CDC VSP, PubMed, and grey-literature screening.
+- `data/pubmed_screening.csv`: PubMed screening file.
+- `data/screening_decisions.csv`: record-level screening and exclusion decisions.
+- `data/screening_decisions.md`: human-readable screening-decision table.
+- `DATA_DICTIONARY.md`: definitions for analytic fields and source-provenance files.
+- `script/generate_supplementary_tables.py`: regenerates the full analytic dataset export and supplementary descriptive tables.
+- `script/generate_eid_figure.R`: regenerates EID main-text Figures 1-3 and panel files.
+- `script/generate_supplementary_figures.R`: regenerates supplementary descriptive figures retained for provenance.
+- `output/table_s_full_dataset.csv`: generated export of the full event-level dataset.
+- `output/supplementary_tables/`: generated supplementary descriptive tables, including sensitivity analyses and source-type indicators.
+- `output/Figure_*.tif`: EID-oriented main-text figure files at 300 dpi, with PDF and PNG versions also retained.
+- `output/figure_s*.png` and `output/figure_s*.pdf`: supplementary descriptive figure outputs retained for provenance.
+
+The local `manuscript/` directory contains working draft files and is intentionally excluded from version control.
 
 ## Reproducibility
 
-The EID manuscript figures can be regenerated from the current EID figure script.
+Run commands from the repository root.
 
-- `Rscript script/generate_eid_figure.R`
+```bash
+python3 script/validate_eid_dataset.py
+python3 script/generate_supplementary_tables.py
+Rscript script/generate_eid_figure.R
+Rscript script/generate_supplementary_figures.R
+```
 
-Legacy general-manuscript and supplementary-figure scripts remain in `script/` for provenance, but their outputs are not part of the current EID package.
+The validation command checks row count, duplicate event identifiers, duplicate vessel/route/year/pathogen combinations, year ranges, source identifiers, source-category labels, pathogen-category labels, and selected cross-field discordance. The supplementary-table command reads `data/outbreak_events.csv` and writes:
 
-## Manuscript Packages
+- `output/table_s_full_dataset.csv`
+- `output/supplementary_tables/table_s1_source_bias.csv`
+- `output/supplementary_tables/table_s2_pathogen_summary.csv`
+- `output/supplementary_tables/table_s3_temporal_distribution.csv`
+- `output/supplementary_tables/table_s4_field_completeness.csv`
+- `output/supplementary_tables/table_s5_deaths_by_pathogen.csv`
+- `output/supplementary_tables/table_s6_sensitivity_analyses.csv`
+- `output/supplementary_tables/table_s8_source_contribution_indicators.csv`
 
-- `manuscript/eid_perspective/`: local EID Perspective draft package, including main manuscript, technical appendix, cover letter, and submission checklist.
-- `output/Figure_1_public_visibility.tif`: EID-oriented main-text Figure 1 composite, with separate 1A/1B panel files.
-- `output/Figure_2_temporal_visibility.tif`: EID-oriented main-text Figure 2 composite, with separate 2A/2B panel files.
-- `output/Figure_3_reporting_completeness.tif`: EID-oriented main-text Figure 3 composite, with separate 3A/3B/3C panel files.
+The EID figure script reads `output/table_s_full_dataset.csv`; regenerate the supplementary tables first if the input dataset changes.
+
+## Software
+
+The descriptive tables use Python standard-library modules only. The figure scripts were tested with:
+
+- Python 3.12.3
+- R 4.6.0
+- R packages: `ggplot2` 4.0.3, `dplyr` 1.2.1, `tidyr` 1.3.2, `readr` 2.2.0, `scales` 1.4.0, `patchwork` 1.3.2
+
+The legacy full-pipeline script in `script/00_run_full_pipeline.py` uses `beautifulsoup4` for HTML parsing and is retained for provenance; the current EID reproducibility path starts from the frozen curated CSV.
+
+## Source Provenance
+
+The public-source strategy used three entry-source tiers:
+
+- CDC Vessel Sanitation Program current and archived public outbreak records.
+- Non-VSP official public health reports, including WHO, ECDC, UKHSA, CDC/MMWR, and other named public health authority materials.
+- Peer-reviewed academic publications identified through PubMed.
+
+ProMED, media reports, operator communications, port-health bulletins, and local-language reports were not systematically searched. When such records cited or linked to a named public health authority, they were used only for source tracing or field completion.
 
 ## Notes
 
-- The `manuscript/` directory is intentionally excluded from version control.
+- Generated event counts describe the composition of publicly retrievable event-records under this source strategy.
+- Absence from the dataset should not be interpreted as absence of passenger-ship-associated disease.
+- The GitHub release or tag used for journal submission should preserve the analytic freeze date and generated outputs.

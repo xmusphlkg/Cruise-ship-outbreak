@@ -14,8 +14,8 @@ FULL_DATASET_FILENAME = "table_s_full_dataset.csv"
 SUPPLEMENTARY_TABLE_DIRNAME = "supplementary_tables"
 
 SOURCE_LABELS = {
-    "cdc_vsp": "CDC VSP archive entries",
-    "additional_official": "Events identified from additional official public-health reports",
+    "cdc_vsp": "CDC VSP entries",
+    "additional_official": "Non-VSP official public-health reports",
     "academic": "Events identified from peer-reviewed academic publications",
 }
 
@@ -72,7 +72,7 @@ def parse_int(value: str) -> int | None:
 
 
 def is_cdc_vsp_record(row: dict[str, str]) -> bool:
-    """Return True for CDC VSP archive entries and other VSP-derived logs."""
+    """Return True for CDC VSP entries and other VSP-derived logs."""
     ref = (row.get("data_source_reference") or "").strip()
     return row.get("data_source_category") == "official_public_health" and (
         ref == "NR" or ref.startswith("CDC VSP")
@@ -85,7 +85,7 @@ def is_additional_official_record(row: dict[str, str]) -> bool:
 
 
 def source_group_for_s1(row: dict[str, str]) -> str:
-    """Map each row to the mutually exclusive source tiers used in Table S1."""
+    """Map each row to the mutually exclusive entry-source tiers used in Table S1."""
     if is_cdc_vsp_record(row):
         return "cdc_vsp"
     if is_additional_official_record(row):
@@ -260,22 +260,22 @@ def build_table_s6(rows: list[dict[str, str]]) -> list[dict[str, str]]:
         build_sensitivity_row(
             "Excluding 2020-22 crew-in-port events",
             excluding_crew_in_port,
-            "These four docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; conclusions were unchanged.",
+            "These four docked-ship crew-only SARS-CoV-2 events were excluded as a sensitivity check; respiratory viral event-records decreased from 28 to 24 while the source-composition pattern remained the same.",
         ),
         build_sensitivity_row(
-            "CDC VSP archive entries + events identified from additional official public-health reports",
+            "CDC VSP entries + non-VSP official public-health reports",
             official_public_health,
-            "The combined CDC VSP archive entries + events identified from additional official public-health reports set is dominated by viral gastroenteritis and includes 430 CDC VSP archive entries plus six events identified from additional official public-health reports.",
+            "The combined CDC VSP entries + non-VSP official public-health reports set is dominated by viral gastroenteritis and includes 430 CDC VSP entries plus six non-VSP official public-health reports.",
         ),
         build_sensitivity_row(
             "CDC VSP-only",
             cdc_vsp_only,
-            "The CDC VSP archive subset contains no respiratory viral outbreaks.",
+            "The CDC VSP subset contains no respiratory viral outbreaks.",
         ),
         build_sensitivity_row(
             "Non-VSP sources",
             non_vsp,
-            "This subset combines six events identified from additional official public-health reports and 43 events identified from peer-reviewed academic publications; respiratory viral events dominate the remaining non-VSP record.",
+            "This subset combines six non-VSP official public-health reports and 43 events identified from peer-reviewed academic publications; respiratory viral events dominate the remaining non-VSP record.",
         ),
         build_sensitivity_row(
             "Events identified from peer-reviewed academic publications only",
@@ -283,6 +283,76 @@ def build_table_s6(rows: list[dict[str, str]]) -> list[dict[str, str]]:
             "The event subset identified from peer-reviewed academic publications is dominated by respiratory viral events, consistent with publication bias toward novel or severe pathogens.",
         ),
     ]
+
+
+def source_text(row: dict[str, str]) -> str:
+    fields = [
+        row.get("data_source_category", ""),
+        row.get("data_source_reference", ""),
+        row.get("source_url", ""),
+        row.get("notes", ""),
+    ]
+    return " ".join(fields).lower()
+
+
+def yes_no(value: bool) -> str:
+    return "yes" if value else "no"
+
+
+def has_vsp_source(row: dict[str, str]) -> bool:
+    text = source_text(row)
+    return source_group_for_s1(row) == "cdc_vsp" or "vessel-sanitation" in text or "cdc vsp" in text
+
+
+def has_non_vsp_official_source(row: dict[str, str]) -> bool:
+    text = source_text(row)
+    official_markers = [
+        "ecdc",
+        "who.int",
+        "disease outbreak news",
+        "mmwr",
+        "cdc.gov/mmwr",
+        "ukhsa",
+        "public health",
+        "health authority",
+    ]
+    return source_group_for_s1(row) == "additional_official" or any(marker in text for marker in official_markers)
+
+
+def has_academic_source(row: dict[str, str]) -> bool:
+    text = source_text(row)
+    return row.get("data_source_category") == "academic" or "doi.org" in text or "pubmed" in text
+
+
+def build_table_s8(rows: list[dict[str, str]]) -> list[dict[str, str]]:
+    """Build event-level source contribution indicators from curated source fields.
+
+    These indicators describe source types visible in the curated record and are
+    not an exhaustive bibliographic linkage table for every event.
+    """
+    source_tier_labels = {
+        "cdc_vsp": "CDC VSP entry",
+        "additional_official": "Non-VSP official public-health report",
+        "academic": "Peer-reviewed academic publication",
+    }
+    table_rows: list[dict[str, str]] = []
+    for row in rows:
+        entry_source = source_group_for_s1(row)
+        table_rows.append(
+            {
+                "event_id": row["event_id"],
+                "ship_name": row["ship_name"],
+                "outbreak_year": row["outbreak_year"],
+                "pathogen_category": PATHOGEN_LABELS[row["pathogen_category"]],
+                "entry_source_tier": source_tier_labels[entry_source],
+                "cdc_vsp_source_in_curated_record": yes_no(has_vsp_source(row)),
+                "non_vsp_official_source_in_curated_record": yes_no(has_non_vsp_official_source(row)),
+                "academic_source_in_curated_record": yes_no(has_academic_source(row)),
+                "source_reference": row.get("data_source_reference", "NR"),
+                "source_url": row.get("source_url", "NR"),
+            }
+        )
+    return table_rows
 
 
 def write_table(output_dir: Path, filename: str, rows: list[dict[str, str]]) -> None:
@@ -313,6 +383,7 @@ def main() -> None:
     write_table(supplementary_dir, "table_s4_field_completeness.csv", build_table_s4(rows))
     write_table(supplementary_dir, "table_s5_deaths_by_pathogen.csv", build_table_s5(rows))
     write_table(supplementary_dir, "table_s6_sensitivity_analyses.csv", build_table_s6(rows))
+    write_table(supplementary_dir, "table_s8_source_contribution_indicators.csv", build_table_s8(rows))
 
 
 if __name__ == "__main__":
