@@ -321,7 +321,9 @@ plot_1b <- ggplot(source_summary, aes(x = prop, y = pathogen_label)) +
      theme_eid(base_size = 10) +
      theme(
           panel.grid.major.y = element_blank(),
-          legend.justification = "left"
+          legend.position = 'inside',
+          legend.justification = c(1, 0),
+          legend.position.inside = c(1, 0),
      )
 
 figure_1 <- plot_1a / plot_1b +
@@ -359,7 +361,6 @@ plot_2a <- ggplot(annual_counts, aes(x = outbreak_year, y = n, fill = pathogen_l
      labs(x = "Year", y = "Reported events", fill = NULL) +
      theme_eid(base_size = 10) +
      theme(
-          axis.text.x = element_text(angle = 45, hjust = 1),
           panel.grid.major.x = element_blank(),
           legend.position = "none"
      )
@@ -402,12 +403,12 @@ plot_2b <- ggplot(period_summary, aes(x = period, y = prop, fill = pathogen_labe
      labs(x = "Period", y = "Within-period proportion", fill = "Pathogen category") +
      theme_eid(base_size = 10) +
      theme(
-          legend.position = "bottom",
+          legend.position = "right",
           panel.grid.major.x = element_blank()
      ) +
-     guides(fill = guide_legend(ncol = 2, byrow = TRUE))
+     guides(fill = guide_legend(ncol = 1, byrow = TRUE))
 
-figure_2 <- plot_2a / plot_2b +
+figure_2 <- plot_2a / free(plot_2b) +
      plot_layout(heights = c(1.08, 0.92)) +
      plot_annotation(tag_levels = "A") &
      theme(plot.tag = element_text(face = "bold", size = 10, color = "#1F2933"))
@@ -502,10 +503,8 @@ make_field_heatmap <- function(selected_fields) {
           scale_color_identity() +
           labs(x = NULL, y = NULL) +
           guides(fill = guide_colorbar(
-               title.position = "top",
-               title.hjust = 0.5,
-               barwidth = unit(2.0, "in"),
-               barheight = unit(0.12, "in")
+               barheight = unit(2.0, "in"),
+               barwidth = unit(0.12, "in")
           )) +
           theme_eid(base_size = 10) +
           theme(
@@ -516,7 +515,7 @@ make_field_heatmap <- function(selected_fields) {
                axis.ticks = element_blank(),
                axis.text.x = element_text(size = 9.5, lineheight = 0.95),
                axis.text.y = element_text(size = 9.2, lineheight = 0.95),
-               legend.justification = "center"
+               legend.position = "right"
           )
 }
 
