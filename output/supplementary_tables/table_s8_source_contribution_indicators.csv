@@ -1,0 +1,480 @@
+event_id,ship_name,outbreak_year,pathogen_category,entry_source_tier,cdc_vsp_source_in_curated_record,non_vsp_official_source_in_curated_record,academic_source_in_curated_record,source_reference,source_url
+EVT-757,American Adventure,1993,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-751,Viking Serenade,1994,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,yes,no,NR,https://www.cdc.gov/mmwr/preview/mmwrhtml/00032506.htm
+EVT-752,Regent Rainbow,1994,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-764,StarShip Oceanic,1994,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-013,Horizon,1994,Legionella spp.,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.1016/S0140-6736(96)91137-X
+EVT-303,NR,1994,Bacterial/protozoal gastrointestinal pathogens,Peer-reviewed academic publication,no,no,yes,"J Infect Dis 1995; Vibrio cholerae O139 Bengal outbreak among tourists on cruise/passenger ship to Southeast Asia, 1994",https://doi.org/10.1093/infdis/172.5.1401
+EVT-753,Fantasy,1995,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-754,Horizon,1995,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-755,Crown Odyssey,1995,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-756,Royal Princess,1996,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-765,Jubilee,1996,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-766,Noordam,1996,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-039,Unnamed cruise ship (Norovirus 1997),1997,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-300,NR,1997,Vaccine-preventable infections,Non-VSP official public-health report,no,yes,no,"CDC MMWR 1998; Rubella outbreak among crew of two commercial cruise ships, Florida, 1997",https://www.cdc.gov/mmwr/preview/mmwrhtml/00050783.htm
+EVT-749,Noordam,1997,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-767,Regal Princess,1997,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-768,Nantucket Clipper,1997,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-769,Royal Odyssey,1997,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-770,Royal Odyssey,1997,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-771,Royal Princess,1997,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-772,Nantucket Clipper,1997,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-773,Regal Empress,1997,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-774,Zenith,1997,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-015,Unnamed cruise ship (Miller 2000),1997,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.1086/313974
+EVT-775,Legend of the Seas,1998,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-776,Statendam,1998,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-777,Ocean Breeze,1998,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-778,Regal Princess,1998,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-779,Regal Princess,1998,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-780,Regal Princess,1998,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-781,Norway,1998,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-782,Vision of the Seas,1998,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-871,Nantucket Clipper,1998,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-783,Nantucket Clipper,1999,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-784,Nantucket Clipper,1999,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-785,Nantucket Clipper,1999,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-786,Nantucket Clipper,1999,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-787,Nantucket Clipper,1999,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-788,Nantucket Clipper,2000,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-789,Nantucket Clipper,2000,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-790,Nantucket Clipper,2000,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-791,Palm Beach Princess,2000,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-792,Spirit of Glacier Bay,2000,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-793,Disney Magic,2000,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-794,Oriana,2001,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-795,Caronia,2001,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-796,Mississippi,2001,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-797,Nantucket Clipper,2001,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-870,Coronia,2001,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-038,Unnamed cruise ship (Norovirus 2002),2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-304,NR,2002,Viral gastroenteritis,Non-VSP official public-health report,no,yes,no,"CDC MMWR 2002; Norovirus outbreaks on cruise ships, 2002",https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5149a2.htm
+EVT-745,Cunard Caronia,2002,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-746,Nantucket Clipper,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-747,Norwegian Dream,2002,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-748,Seven Seas Mariner,2002,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-798,Carnival Pride,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-799,Nantucket Clipper,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-800,Ryndam,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-801,Amsterdam,2002,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-802,Ocean Princess,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-803,Ryndam,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-804,Yorktown Clipper,2002,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-805,Norwegian Sun,2002,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-806,Norwegian Sun,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-807,Amsterdam,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-808,Seabourn Pride,2002,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-809,Amsterdam,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-810,Disney Magic,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-811,Constellation,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-812,Oceana,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-813,Fascination,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-814,Carnival Conquest,2002,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-815,Norway,2002,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-816,Nantucket Clipper,2002,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-869,Caronia,2002,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-758,Unnamed cruise ship (Isakbaeva et al. 2005),2002,Viral gastroenteritis,Peer-reviewed academic publication,yes,no,yes,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-817,Queen Elizabeth 2,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-818,Arabella,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-819,Regal Empress,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-820,Olympia Voyager,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-821,Sun Dream,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-822,Carnival Spirit,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-823,Sun Princess,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-824,Sun Dream,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-825,Nantucket Clipper,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-826,Norwegian Dream,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-827,Royal Princess,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-828,Norwegian Sky,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-829,Rhapsody of the Seas,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-830,Star Princess,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-831,Star Princess,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-832,Clipper Odyssey,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-833,Regal Princess,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-834,Norwegian Star,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-835,Nantucket Clipper,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-836,Carnival Holiday,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-837,Carnival Holiday,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-838,Carnival Legend,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-839,Carnival Legend,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-840,Volendam,2003,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Archived Outbreak Updates 1993-2018,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-868,Legacy,2003,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-712,Coral Princess,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-713,Golden Princess,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-714,Norwegian Dream,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-715,Silver Shadow,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-716,M/V Explorer,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-717,Veendam,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-718,Regal Princess,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-719,Sun Princess,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-720,Sun Princess,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-721,Silver Shadow,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-722,Pacific Princess,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-723,Serenade of the Seas,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-724,Island Princess,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-725,Island Princess,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-726,Norwegian Crown,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-727,Norwegian Crown,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-728,Veendam,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-729,Norwegian Wind,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-730,Rotterdam,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-731,Amsterdam,2004,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-732,Zenith,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-733,Horizon,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-734,Norwegian Crown,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-735,Royal Princess,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-736,Norwegian Crown,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-737,Queen Mary 2,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-738,Brilliance of the Seas,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-739,Queen Elizabeth 2,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-740,Oriana,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-741,Carnival Celebration,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-742,Ryndam,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-743,Coral Princess,2004,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-744,Queen Elizabeth 2,2004,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-865,Nantucket Clipper,2004,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-866,The World,2004,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-867,Legacy,2004,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-692,Zuiderdam,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-693,Splendour of the Seas,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-694,Sun Princess,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-695,Dawn Princess,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-696,Horizon,2005,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-697,Crystal Symphony,2005,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-698,Norwegian Crown,2005,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-699,Royal Princess,2005,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-700,Veendam,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-701,Zenith,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-702,Celebration,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-703,Celebration,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-704,Seven Seas Mariner,2005,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-705,Empress of the Seas,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-706,Mariner of the Seas,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-707,Veendam,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-708,Ryndam,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-709,Sun Princess,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-710,Veendam,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-711,Enchantment of the Seas,2005,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-042,Unnamed cruise ship (Norovirus 2006),2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-656,Regal Princess,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-657,Freedom of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-658,Sun Princess,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-659,Norwegian Wind,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-660,Zaandam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-661,Freedom of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-662,Serenade of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-663,Summit,2006,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-664,Adventure of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-665,Carnival Liberty,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-666,Serenade of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-667,Constellation,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-668,Island Princess,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-669,Constellation,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-670,Diamond Princess,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-671,Radiance of the Seas,2006,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-672,Mariner of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-673,Infinity,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-674,Mercury,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-675,Ryndam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-676,Ryndam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-677,Norwegian Star,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-678,Norwegian Sun,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-679,Explorer of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-680,Veendam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-681,Amsterdam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-682,Mercury,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-683,Island Princess,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-684,Amsterdam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-685,Mercury,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-686,Grandeur of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-687,Volendam,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-688,Seven Seas Mariner,2006,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-689,Explorer of the Seas,2006,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-690,Queen Mary 2,2006,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-691,Minerva II,2006,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-016,Unnamed cruise ship (JTM 2006),2006,Vaccine-preventable infections,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.3390/ijerph16152713
+EVT-759,Unnamed cruise ship (Verhoef et al. 2008),2006,Viral gastroenteritis,Peer-reviewed academic publication,yes,no,yes,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-637,Pacific Princess,2007,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-638,Emerald Princess,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-639,Norwegian Pearl,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-640,Zaandam,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-641,Norwegian Dawn,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-642,Norwegian Crown,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-643,Carnival Spirit,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-644,Liberty of the Seas,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-645,Norwegian Star,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-646,Seven Seas Navigator,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-647,Zenith,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-648,Empress of the North,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-649,Ryndam,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-650,Seven Seas Mariner,2007,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-651,Ryndam,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-652,Westerdam,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-653,Island Princess,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-654,Ryndam,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-655,Queen Elizabeth 2,2007,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-861,Volendam,2007,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-862,Regal Princess,2007,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-863,Spirit of Nantucket,2007,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-864,Volendam,2007,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/nceh/vsp/surv/outbreak/archived-outbreaks-1993-2018.html
+EVT-045,Unnamed cruise ship (Legionella 2008),2008,Legionella spp.,CDC VSP entry,yes,yes,no,NR,https://www.cdc.gov/mmwr/volumes/73/wr/mm7342a3.htm
+EVT-623,Zuiderdam,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-624,Caribbean Princess,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-625,Norwegian Jewel,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-626,Grande Caribe,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-627,Norwegian Jewel,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-628,Seven Seas Mariner,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-629,Veendam,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-630,Norwegian Dream,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-631,Zaandam,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-632,Ryndam,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-633,Holiday,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-634,Norwegian Star,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-635,Noordam,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-636,Volendam,2008,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-608,Amsterdam,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-609,Seven Seas Mariner,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-610,Norwegian Spirit,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-611,Noordam,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-612,Amsterdam,2009,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-613,Coral Princess,2009,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-614,Island Princess,2009,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-615,Carnival Liberty,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-616,Amsterdam,2009,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-617,Celebrity Mercury,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-618,Oosterdam,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-619,Zaandam,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-620,Coral Princess,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-621,Celebrity Mercury,2009,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-622,Maasdam,2009,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-014,Unnamed cruise ship (EID 2010),2009,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.3201/eid1611.100477
+EVT-760,Unnamed cruise ship (Vivancos et al. 2010),2009,Viral gastroenteritis,Peer-reviewed academic publication,yes,no,yes,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-594,Queen Mary 2,2010,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-595,Crystal Symphony,2010,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-596,Nieuw Amsterdam,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-597,Carnival Glory,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-598,Zuiderdam,2010,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-599,Mercury,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-600,Mercury,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-601,Jewel of the Seas,2010,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-602,Millennium,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-603,Maasdam,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-604,Mercury,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-605,Balmoral,2010,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-606,Queen Victoria,2010,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-607,Queen Victoria,2010,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-034,Unnamed cruise ship (Cyclospora 2010),2010,Bacterial/protozoal gastrointestinal pathogens,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.1017/S0950268811001609
+EVT-761,Unnamed cruise ship (Lopman et al. 2012),2010,Viral gastroenteritis,Peer-reviewed academic publication,yes,no,yes,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-580,ms Maasdam,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-581,Norwegian Spirit,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-582,Ryndam,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-583,Celebrity Solstice,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-584,Ryndam,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-585,Sea Princess,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-586,National Geographic Sea Lion,2011,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-587,Sea Princess,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-588,Celebrity Millennium,2011,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-589,Coral Princess,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-590,Coral Princess,2011,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-591,MV Marina,2011,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-592,Celebrity Solstice,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-593,Radiance of the Seas,2011,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-301,NR,2012,Vaccine-preventable infections,Non-VSP official public-health report,yes,yes,no,CDC 2019 report; Maritime varicella reporting 2010-2015,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-564,Queen Mary 2,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-565,Emerald Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-566,Oceania Riviera,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-567,Amsterdam,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-568,Ruby Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-569,Dawn Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-570,Rhapsody of the Seas,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-571,Carnival Glory,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-572,Sun Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-573,Ruby Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-574,Crown Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-575,Celebrity Silhouette,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-576,Celebrity Constellation,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-577,Crown Princess,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-578,Aurora,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-579,Voyager of the Seas,2012,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-555,Norwegian Gem,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-556,Celebrity Summit,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-557,Celebrity Millennium,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-558,Crystal Symphony,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-559,Veendam,2013,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-560,Celebrity Solstice,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-561,Celebrity Infinity,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-562,Ruby Princess,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-563,Vision of the Seas,2013,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-023,Explorer of the Seas,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-547,Crown Princess,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-548,Crown Princess,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-549,Grandeur of the Seas,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-550,Grandeur of the Seas,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-551,ms Maasdam,2014,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-552,ms Veendam,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-553,Caribbean Princess,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-554,Norwegian Star,2014,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-037,Unnamed cruise ship (Influenza 2014),2014,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.1111/jtm.12215
+EVT-305,NR,2014,Vaccine-preventable infections,Peer-reviewed academic publication,no,no,yes,"Mouchtouri et al., IJERPH 2019; Systematic review of VPD outbreaks on ships",https://doi.org/10.3390/ijerph16152713
+EVT-535,Veendam,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-536,Caribbean Princess,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-537,Oceania Riviera,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-538,Star Princess,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-539,Oceania Marina,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-540,ms Maasdam,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-541,Coral Princess,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-542,Legend of the Seas,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-543,Celebrity Infinity,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-544,Norwegian Pearl,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-545,Celebrity Equinox,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-546,Grandeur of the Seas,2015,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-026,Cruise ship (Influenza 2015 MMWR),2015,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.3201/eid2403.171378
+EVT-302,NR,2015,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"CDC EID 2018; Influenza A/H3N2 outbreak associated with cruise ships to Alaska, 2015",https://doi.org/10.3201/eid2403.171378
+EVT-522,Oosterdam,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-523,Adonia,2016,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-524,Disney Wonder,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-525,Balmoral,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-526,Oceania Riviera,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-527,Norwegian Gem,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-528,Silver Spirit,2016,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-529,Carnival Sunshine,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-530,Anthem of the Seas,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-531,Ocean Princess,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-532,Oceania Riviera,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-533,Oceania Riviera,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-534,Crown Princess,2016,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-762,Unnamed cruise ship (Sakon et al. 2018),2016,Viral gastroenteritis,Peer-reviewed academic publication,yes,no,yes,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-511,Independence of the Seas,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-512,Celebrity Reflection,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-513,Crown Princess,2017,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-514,National Geographic Sea Bird,2017,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-515,Noordam,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-516,Nieuw Amsterdam,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-517,Noordam,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-518,Volendam,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-519,Volendam,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-520,Regatta,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-521,Coral Princess,2017,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-500,Viking Star,2018,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-501,Crystal Symphony,2018,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-502,Volendam,2018,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-503,Pearl Mist,2018,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-504,Seven Seas Mariner,2018,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-505,Zaandam,2018,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-506,Silver Shadow,2018,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-507,Celebrity Infinity,2018,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-508,Queen Victoria,2018,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-509,Azamara Quest,2018,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-510,Island Princess,2018,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-763,Unnamed cruise ship (Rajiuddin et al. 2020),2018,Viral gastroenteritis,Peer-reviewed academic publication,yes,no,yes,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-211,Multiple cruise ships (frozen fruit-associated norovirus),2019,Viral gastroenteritis,Non-VSP official public-health report,no,yes,no,CDC MMWR 2020,https://www.cdc.gov/mmwr/volumes/69/wr/mm6916a3.htm
+EVT-851,Norwegian Joy,2019,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-852,AIDAdiva,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-853,AIDAluna,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-854,AIDAdiva,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-855,Conquest,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-856,Oceania Marina,2019,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-857,Island Princess,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-858,Viking Star,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-859,Viking Sea,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-860,Oasis of the Seas,2019,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-847,Grandeur of the Seas,2020,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-848,Westerdam,2020,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-849,Caribbean Princess,2020,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-850,Caribbean Princess,2020,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-001,Diamond Princess,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.1056/NEJMoa2001316
+EVT-020,Grand Princess,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.1093/cid/ciaa1424
+EVT-021,Greg Mortimer,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.3201/eid2702.204443
+EVT-022,Coral Princess,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-031,Ruby Princess,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,NR,https://doi.org/10.5694/mja2.50648
+EVT-032,MS Zaandam,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-036,Costa Luminosa,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-200,Celebrity Apex,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-201,Costa Atlantica,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-202,Ovation of the Seas,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-203,MS Roald Amundsen,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-204,Costa Diadema,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-205,Costa Favolosa,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-206,Celebrity Flora,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-207,MS Westerdam,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-208,Silver Shadow,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-209,Horizon,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-210,MS Artania,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,CDC EID 2021,https://doi.org/10.3201/eid2702.204443
+EVT-306,Disney Wonder,2020,Respiratory viral,Peer-reviewed academic publication,no,no,yes,"Willebrand et al., Eurosurveillance 2022, Table 1 & Supplement",https://doi.org/10.2807/1560-7917.ES.2022.27.1.2002113
+EVT-846,Viking Sea,2021,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-011,"Ship A (unnamed, MMWR 2024)",2022,Legionella spp.,CDC VSP entry,yes,yes,no,NR,https://www.cdc.gov/mmwr/volumes/73/wr/mm7342a3.htm
+EVT-842,Arcadia,2022,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-843,Silver Moon,2022,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-844,Carnival Splendor,2022,Viral gastroenteritis,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-845,Seabourn Odyssey,2022,Unknown aetiology,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://archive.cdc.gov/www_cdc_gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks-2019-2022.html
+EVT-145,Scarlet Lady,2023,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-146,Viking Neptune,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-147,Celebrity Summit,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-148,Nieuw Amsterdam,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-149,Grand Princess,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-150,Emerald Princess,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-151,Enchantment of the Seas,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-152,Enchantment of the Seas,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-153,Celebrity Equinox,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-154,Celebrity Constellation,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-155,Ruby Princess,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-156,Jewel of the Seas,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-157,Brilliance of the Seas,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-158,Arcadia,2023,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-012,"Ship B (unnamed, MMWR 2024)",2024,Legionella spp.,CDC VSP entry,yes,yes,no,NR,https://www.cdc.gov/mmwr/volumes/73/wr/mm7342a3.htm
+EVT-127,Eurodam,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-128,Oceania Nautica,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-129,Queen Mary 2,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-130,Queen Mary 2,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-131,Rotterdam,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-132,Ruby Princess,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-133,Zuiderdam,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-134,Coral Princess,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-135,Radiance of the Seas,2024,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-136,Arcadia,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-137,Celebrity Summit,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-138,Allure of the Seas,2024,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-139,Sapphire Princess,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-140,Radiance of the Seas,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-141,Silver Nova,2024,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-142,Koningsdam,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-143,Queen Victoria,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-144,Celebrity Constellation,2024,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-104,Rotterdam,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-105,Celebrity Eclipse,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-106,AIDAdiva,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-107,Oceania Insignia,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-108,Serenade of the Seas,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-109,Navigator of the Seas,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-110,Seven Seas Explorer,2025,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-111,Eurodam,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-112,Zuiderdam,2025,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-113,National Geographic Sea Lion,2025,Unknown aetiology,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-114,Viking Polaris,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-115,Seabourn Encore,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-116,Queen Mary 2,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-117,Rotterdam,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-118,Coral Princess,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-119,Eurodam,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-120,Rotterdam,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-121,Radiance of the Seas,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-122,Coral Princess,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-123,Viking Mars,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-124,Volendam,2025,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-125,Silver Ray,2025,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-841,Sea Cloud Spirit,2025,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,CDC VSP Outbreak Investigations,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/earlier-outbreaks.html
+EVT-002,MV Hondius,2026,Zoonotic infection,Non-VSP official public-health report,no,yes,no,ECDC outbreak update 19 May 2026; WHO Disease Outbreak News 2026-DON601,https://www.ecdc.europa.eu/en/infectious-disease-topics/hantavirus-infection/surveillance-and-updates/andes-hantavirus-outbreak
+EVT-027,Ambition,2026,Viral gastroenteritis,Non-VSP official public-health report,no,yes,no,Préfecture de la Gironde communiqué 13 May 2026; CHU Bordeaux laboratory confirmation (norovirus),https://apnews.com/article/cruise-ship-outbreak-gastroenteritis-ambition-bordeaux-france-f5f1f0547483facc6af27866659b82ae
+EVT-100,Caribbean Princess,2026,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-101,Insignia,2026,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-102,Star Princess,2026,Viral gastroenteritis,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-103,Seven Seas Mariner,2026,Bacterial/protozoal gastrointestinal pathogens,CDC VSP entry,yes,no,no,NR,https://www.cdc.gov/vessel-sanitation/cruise-ship-outbreaks/index.html
+EVT-872,Unnamed cruise ship (MMWR Legionella 2003-2004),2003,Legionella spp.,Peer-reviewed academic publication,no,yes,yes,"MMWR 2005; 54(45): Cruise-ship-associated Legionnaires disease, November 2003-May 2004",https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5445a4.htm
+EVT-873,Unnamed British cruise ship (Mediterranean 1999),1999,Respiratory viral,Peer-reviewed academic publication,no,yes,yes,Whiting et al. Commun Dis Public Health 1999; Influenza activity in England and Wales Oct 1998-Jun 1999,NR
+EVT-874,Unnamed cruise ship (Sydney-Noumea 2000),2000,Respiratory viral,Peer-reviewed academic publication,no,no,yes,Brotherton et al. Epidemiol Infect 2003; 131: 691-700,https://doi.org/10.1017/s0950268802008166
+EVT-875,Unnamed cruise ship (Meningococcal Italy 2012),2012,Vaccine-preventable infections,Peer-reviewed academic publication,no,no,yes,Stefanelli et al. Euro Surveill 2012; 17(50),NR
+EVT-876,MSC Armonia,2012,Respiratory viral,Peer-reviewed academic publication,no,no,yes,Fernandes et al. J Travel Med 2014; 21(5): 349-351; Paiva et al. J Clin Virol 2014; 61(1): 152-154,https://doi.org/10.1111/jtm.12132
+EVT-877,Unnamed cruise ship (Measles Mediterranean 2014),2014,Vaccine-preventable infections,Peer-reviewed academic publication,no,no,yes,Lanini et al. Euro Surveill 2014; 19(10): 20735,https://doi.org/10.2807/1560-7917.es2014.19.10.20735
+EVT-878,Unnamed cruise ship (Omicron Germany 2022),2022,Respiratory viral,Peer-reviewed academic publication,no,no,yes,Bühler et al. Int Marit Health 2023; 74(3),https://doi.org/10.5603/imh.96935
+EVT-879,Multiple ships (Mpox MMWR 2024),2024,Vaccine-preventable infections,Peer-reviewed academic publication,no,yes,yes,Ortiz et al. MMWR 2025; 74(22),https://doi.org/10.15585/mmwr.mm7422a1
