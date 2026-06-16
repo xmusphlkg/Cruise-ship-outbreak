@@ -12,7 +12,10 @@ suppressPackageStartupMessages({
 
 repo_root <- normalizePath(".", mustWork = TRUE)
 data_path <- file.path(repo_root, "output", "table_s_full_dataset.csv")
-output_dir <- file.path(repo_root, "output")
+output_dir <- Sys.getenv("FIGURE_OUTPUT_DIR", unset = file.path(repo_root, "output"))
+figure_1_stub <- Sys.getenv("FIGURE_1_STUB", unset = "Figure_1_journal_of_infection_letter")
+figure_dpi <- as.integer(Sys.getenv("FIGURE_DPI", unset = "300"))
+save_panels <- tolower(Sys.getenv("SAVE_PANELS", unset = "true")) %in% c("true", "1", "yes")
 
 cat_map <- c(
      gastrointestinal_viral = "Viral gastroenteritis",
@@ -110,6 +113,7 @@ theme_letter <- function(base_size = 8.8) {
 }
 
 save_figure_set <- function(plot, file_stub, width, height) {
+     dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
      ggsave(
           file.path(output_dir, paste0(file_stub, ".pdf")),
           plot,
@@ -125,7 +129,7 @@ save_figure_set <- function(plot, file_stub, width, height) {
           width = width,
           height = height,
           units = "in",
-          dpi = 300,
+          dpi = figure_dpi,
           device = "tiff",
           compression = "lzw",
           bg = "white"
@@ -136,7 +140,7 @@ save_figure_set <- function(plot, file_stub, width, height) {
           width = width,
           height = height,
           units = "in",
-          dpi = 300,
+          dpi = figure_dpi,
           bg = "white"
      )
 }
@@ -405,8 +409,10 @@ figure <- ((plot_a | plot_b) / (plot_c | plot_d)) +
      plot_annotation(tag_levels = "A") &
      theme(plot.tag = element_text(face = "bold", size = 10, color = "#1F2933"))
 
-save_figure_set(figure, "Figure_1_journal_of_infection_letter", width = 7.6, height = 8.8)
-save_figure_set(plot_a, "Figure_1A_journal_of_infection_source_architecture", width = 3.55, height = 2.9)
-save_figure_set(plot_b, "Figure_1B_journal_of_infection_pathogen_by_source", width = 4.35, height = 3.65)
-save_figure_set(plot_c, "Figure_1C_journal_of_infection_temporal_composition", width = 3.75, height = 4.4)
-save_figure_set(plot_d, "Figure_1D_journal_of_infection_minimum_dataset_gaps", width = 4.05, height = 4.4)
+save_figure_set(figure, figure_1_stub, width = 7.6, height = 8.8)
+if (save_panels) {
+     save_figure_set(plot_a, "Figure_1A_journal_of_infection_source_architecture", width = 3.55, height = 2.9)
+     save_figure_set(plot_b, "Figure_1B_journal_of_infection_pathogen_by_source", width = 4.35, height = 3.65)
+     save_figure_set(plot_c, "Figure_1C_journal_of_infection_temporal_composition", width = 3.75, height = 4.4)
+     save_figure_set(plot_d, "Figure_1D_journal_of_infection_minimum_dataset_gaps", width = 4.05, height = 4.4)
+}
