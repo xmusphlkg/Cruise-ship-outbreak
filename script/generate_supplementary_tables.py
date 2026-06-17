@@ -178,6 +178,7 @@ def build_table_s4(rows: list[dict[str, str]]) -> list[dict[str, str]]:
         ("Pathogen identified", "pathogen_identified"),
         ("Cases (passengers)", "cases_passengers"),
         ("Cases (crew)", "cases_crew"),
+        ("Overall attack rate", "attack_rate_percent"),
         ("Hospitalisations", "hospitalisations"),
     ]
     table_rows: list[dict[str, str]] = []
@@ -198,24 +199,34 @@ def build_table_s5(rows: list[dict[str, str]]) -> list[dict[str, str]]:
     table_rows: list[dict[str, str]] = []
     for pathogen_code in PATHOGEN_ORDER:
         subset = [row for row in rows if row["pathogen_category"] == pathogen_code]
-        events_with_death = sum((parse_int(row["deaths"]) or 0) > 0 for row in subset)
-        total_deaths = sum(parse_int(row["deaths"]) or 0 for row in subset)
+        death_values = [parse_int(row["deaths"]) for row in subset]
+        reported_death_values = [value for value in death_values if value is not None]
+        events_with_death = sum(value > 0 for value in reported_death_values)
+        total_deaths = sum(reported_death_values)
+        events_with_zero_deaths = sum(value == 0 for value in reported_death_values)
+        events_missing_death_data = len(subset) - len(reported_death_values)
         table_rows.append(
             {
                 "Pathogen category": PATHOGEN_LABELS[pathogen_code],
                 "Events with >=1 death": str(events_with_death),
                 "Total deaths": str(total_deaths),
-                "Events with zero deaths": str(len(subset) - events_with_death),
+                "Events with zero deaths": str(events_with_zero_deaths),
+                "Events with death data missing": str(events_missing_death_data),
             }
         )
-    total_events_with_death = sum((parse_int(row["deaths"]) or 0) > 0 for row in rows)
-    total_deaths = sum(parse_int(row["deaths"]) or 0 for row in rows)
+    death_values = [parse_int(row["deaths"]) for row in rows]
+    reported_death_values = [value for value in death_values if value is not None]
+    total_events_with_death = sum(value > 0 for value in reported_death_values)
+    total_deaths = sum(reported_death_values)
+    total_events_with_zero_deaths = sum(value == 0 for value in reported_death_values)
+    total_events_missing_death_data = len(rows) - len(reported_death_values)
     table_rows.append(
         {
             "Pathogen category": "Total",
             "Events with >=1 death": str(total_events_with_death),
             "Total deaths": str(total_deaths),
-            "Events with zero deaths": str(len(rows) - total_events_with_death),
+            "Events with zero deaths": str(total_events_with_zero_deaths),
+            "Events with death data missing": str(total_events_missing_death_data),
         }
     )
     return table_rows

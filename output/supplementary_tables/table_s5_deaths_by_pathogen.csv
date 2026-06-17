@@ -1,9 +1,9 @@
-Pathogen category,Events with >=1 death,Total deaths,Events with zero deaths
-Viral gastroenteritis,1,1,320
-Unknown aetiology,0,0,79
-Bacterial/protozoal gastrointestinal pathogens,1,1,37
-Respiratory viral,11,65,17
-Legionella spp.,1,1,4
-Vaccine-preventable infections,1,1,6
-Zoonotic infection,1,3,0
-Total,16,72,463
+Pathogen category,Events with >=1 death,Total deaths,Events with zero deaths,Events with death data missing
+Viral gastroenteritis,1,1,251,69
+Unknown aetiology,0,0,45,34
+Bacterial/protozoal gastrointestinal pathogens,1,1,29,8
+Respiratory viral,11,65,14,3
+Legionella spp.,1,1,3,1
+Vaccine-preventable infections,1,1,3,3
+Zoonotic infection,1,3,0,0
+Total,16,72,345,118

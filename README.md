@@ -2,12 +2,12 @@
 
 This repository contains the frozen analytic dataset, source-provenance files, code, and generated outputs for the manuscript:
 
-Cruise-ship outbreak visibility after the MV Hondius Andes virus cluster
+Public visibility of infectious disease outbreak records on ocean and expedition cruise ships, 1993-2026
 
 ## Analytic Scope
 
 - Analytic dataset freeze date: 2026-05-14.
-- MV Hondius narrative source check: 2026-06-01, using official ECDC, WHO, and CDC public updates.
+- MV Hondius contextual source check: through 2026-06-17, using official ECDC, WHO, and CDC public updates for background only; these updates were not used to change the frozen comparative analyses.
 - Unit of analysis: publicly visible infectious disease outbreak event-records on ocean and expedition cruise ships.
 - Intended inference: public visibility and reporting architecture, not incidence, risk, burden, or cruise-ship safety.
 
@@ -19,7 +19,7 @@ Cruise-ship outbreak visibility after the MV Hondius Andes virus cluster
 - `data/screening_decisions.csv`: record-level screening and exclusion decisions.
 - `data/screening_decisions.md`: human-readable screening-decision table.
 - `DATA_DICTIONARY.md`: definitions for analytic fields and source-provenance files.
-- `manuscript/journal_of_infection_letter/`: current Journal of Infection Letter manuscript and cover letter.
+- `manuscript/journal_of_travel_medicine_research_letter/`: current Journal of Travel Medicine Research Letter manuscript and cover letter.
 - `script/generate_supplementary_tables.py`: regenerates the full analytic dataset export and supplementary descriptive tables.
 - `script/generate_public_visibility_figure.R`: regenerates the compact public-visibility figure and panel files.
 - `output/table_s_full_dataset.csv`: generated export of the full event-level dataset.
@@ -52,6 +52,8 @@ The validation command checks row count, duplicate event identifiers, duplicate 
 
 The public-visibility figure script reads `output/table_s_full_dataset.csv`; regenerate the supplementary tables first if the input dataset changes.
 
+For dynamic CDC VSP webpages, event inclusion and extraction should be checked against the frozen curated dataset and source-provenance files in this repository rather than against later live-page content.
+
 ## Software
 
 The descriptive tables use Python standard-library modules only. The figure scripts were tested with:
@@ -60,7 +62,7 @@ The descriptive tables use Python standard-library modules only. The figure scri
 - R 4.6.0
 - R packages: `ggplot2` 4.0.3, `dplyr` 1.2.1, `tidyr` 1.3.2, `readr` 2.2.0, `scales` 1.4.0, `patchwork` 1.3.2
 
-The legacy full-pipeline script in `script/00_run_full_pipeline.py` uses `beautifulsoup4` for HTML parsing and is retained for provenance; the current EID reproducibility path starts from the frozen curated CSV.
+The legacy full-pipeline script in `script/00_run_full_pipeline.py` uses `beautifulsoup4` for HTML parsing and is retained for provenance; the current reproducibility path starts from the frozen curated CSV.
 
 ## Source Provenance
 
@@ -71,6 +73,8 @@ The public-source strategy used three entry-source tiers:
 - Peer-reviewed academic publications identified through PubMed.
 
 ProMED, media reports, operator communications, port-health bulletins, and local-language reports were not systematically searched. When such records cited or linked to a named public health authority, they were used only for source tracing or field completion.
+
+For dynamic web sources, especially current CDC VSP outbreak pages, the frozen source-provenance files document the records used for this analysis as of the analytic freeze.
 
 ## Notes
 
