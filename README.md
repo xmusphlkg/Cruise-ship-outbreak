@@ -21,11 +21,11 @@ Cruise-ship outbreak visibility after the MV Hondius Andes virus cluster
 - `DATA_DICTIONARY.md`: definitions for analytic fields and source-provenance files.
 - `manuscript/journal_of_infection_letter/`: current Journal of Infection Letter manuscript and cover letter.
 - `script/generate_supplementary_tables.py`: regenerates the full analytic dataset export and supplementary descriptive tables.
-- `script/generate_journal_of_infection_letter_figure.R`: regenerates the compact Journal of Infection Letter figure and panel files.
+- `script/generate_public_visibility_figure.R`: regenerates the compact public-visibility figure and panel files.
 - `output/table_s_full_dataset.csv`: generated export of the full event-level dataset.
 - `output/supplementary_tables/`: generated supplementary descriptive tables, including sensitivity analyses and source-type indicators.
-- `output/Figure_1_journal_of_infection_letter.*`: current multi-panel Journal of Infection Letter figure files at 300 dpi, with PDF and PNG versions also retained.
-- `output/Figure_1[A-D]_journal_of_infection_*.{pdf,png,tif}`: individual panel exports for editing or submission production.
+- `output/Figure_1_public_visibility.*`: current multi-panel public-visibility figure files at 300 dpi, with PDF and PNG versions also retained.
+- `output/Figure_1[A-D]_*.{pdf,png,tif}`: individual panel exports for editing or submission production.
 
 The local `manuscript/` directory contains working draft files and is intentionally excluded from version control.
 
@@ -36,7 +36,7 @@ Run commands from the repository root.
 ```bash
 python3 script/validate_eid_dataset.py
 python3 script/generate_supplementary_tables.py
-Rscript script/generate_journal_of_infection_letter_figure.R
+Rscript script/generate_public_visibility_figure.R
 ```
 
 The validation command checks row count, duplicate event identifiers, duplicate vessel/route/year/pathogen combinations, year ranges, source identifiers, source-category labels, pathogen-category labels, and selected cross-field discordance. The supplementary-table command reads `data/outbreak_events.csv` and writes:
@@ -50,7 +50,7 @@ The validation command checks row count, duplicate event identifiers, duplicate 
 - `output/supplementary_tables/table_s6_sensitivity_analyses.csv`
 - `output/supplementary_tables/table_s8_source_contribution_indicators.csv`
 
-The Journal of Infection figure script reads `output/table_s_full_dataset.csv`; regenerate the supplementary tables first if the input dataset changes.
+The public-visibility figure script reads `output/table_s_full_dataset.csv`; regenerate the supplementary tables first if the input dataset changes.
 
 ## Software
 
