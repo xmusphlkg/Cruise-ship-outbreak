@@ -218,7 +218,7 @@ plot_a <- ggplot(source_tiers, aes(x = prop, y = source_tier)) +
           breaks = seq(0, 1, 0.25),
           expand = expansion(mult = c(0, 0))
      ) +
-     labs(x = "Share of public event records", y = NULL) +
+     labs(x = "Share of documented event records", y = NULL) +
      theme_letter() +
      theme(
           axis.text.y = element_text(size = 7.7),
@@ -383,7 +383,7 @@ plot_d <- ggplot(field_summary, aes(x = prop, y = field_label)) +
           breaks = seq(0, 1, 0.25),
           expand = expansion(mult = c(0, 0))
      ) +
-     labs(x = "Events with field visible\nin public record", y = NULL) +
+     labs(x = "Events with field documented\nin public record", y = NULL) +
      theme_letter() +
      theme(
           axis.text.y = element_text(size = 7.5),
